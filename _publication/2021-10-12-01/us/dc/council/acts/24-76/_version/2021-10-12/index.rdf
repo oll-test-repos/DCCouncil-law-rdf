@@ -1,0 +1,391 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.us/downloads/LIMS/46916/Signed_Act/B24-0196-Signed_Act.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/acts/24-76"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. IMPROVING POLICE ACCOUNTABILITY AND TRANSPARENCY
+TITLE II. BUILDING SAFE AND JUST COMMUNITIES
+TITLE III. REPEALS; APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 24-76. Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Act 24-76</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-05-03</oll:dateEffective>
+    <oll:docId>D.C. Act 24-76</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|A|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|A|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|B|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7104">
+    <oll:cite xml:lang="en">§ 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|B|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7105">
+    <oll:cite xml:lang="en">§ 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|C|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7106">
+    <oll:cite xml:lang="en">§ 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|D|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7108">
+    <oll:cite xml:lang="en">§ 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|E|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7109">
+    <oll:cite xml:lang="en">§ 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|E|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7110">
+    <oll:cite xml:lang="en">§ 110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|F|110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7111">
+    <oll:cite xml:lang="en">§ 111</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|G|111|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§111</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7112">
+    <oll:cite xml:lang="en">§ 112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|H|112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7113">
+    <oll:cite xml:lang="en">§ 113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|I|113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7114">
+    <oll:cite xml:lang="en">§ 114</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|J|114|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§114</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7115">
+    <oll:cite xml:lang="en">§ 115</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|K|115|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§115</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7116">
+    <oll:cite xml:lang="en">§ 116</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|L|116|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§116</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7117">
+    <oll:cite xml:lang="en">§ 117</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|M|117|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§117</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7118">
+    <oll:cite xml:lang="en">§ 118</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|M|118|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§118</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7119">
+    <oll:cite xml:lang="en">§ 119</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|N|119|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§119</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7120">
+    <oll:cite xml:lang="en">§ 120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|O|120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7121">
+    <oll:cite xml:lang="en">§ 121</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|P|121|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§121</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7122">
+    <oll:cite xml:lang="en">§ 122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|Q|122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|II|A|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I">
+    <oll:cite xml:lang="en">title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/B">
+    <oll:cite xml:lang="en">subtitle B of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/C">
+    <oll:cite xml:lang="en">subtitle C of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/D">
+    <oll:cite xml:lang="en">subtitle D of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|D|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/D</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/E">
+    <oll:cite xml:lang="en">subtitle E of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/F">
+    <oll:cite xml:lang="en">subtitle F of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/G">
+    <oll:cite xml:lang="en">subtitle G of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|G|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/G</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/H">
+    <oll:cite xml:lang="en">subtitle H of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|H|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/H</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/I">
+    <oll:cite xml:lang="en">subtitle I of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/J">
+    <oll:cite xml:lang="en">subtitle J of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|J|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/J</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/K">
+    <oll:cite xml:lang="en">subtitle K of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|K|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/K</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/L">
+    <oll:cite xml:lang="en">subtitle L of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|L|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/L</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/M">
+    <oll:cite xml:lang="en">subtitle M of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|M|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/M</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/N">
+    <oll:cite xml:lang="en">subtitle N of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|N|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/N</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/O">
+    <oll:cite xml:lang="en">subtitle O of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|O|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/O</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/P">
+    <oll:cite xml:lang="en">subtitle P of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|P|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/P</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/Q">
+    <oll:cite xml:lang="en">subtitle Q of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|I|Q|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/I/subtitles/Q</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/II">
+    <oll:cite xml:lang="en">title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/II/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|II|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/II/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/III">
+    <oll:cite xml:lang="en">title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-76|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-76#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/H"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/I"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/J"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/K"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/L"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/M"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/N"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/O"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/P"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/Q"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/II"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/II/subtitles/A"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/III"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7101"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7102"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7103"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7104"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7105"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7106"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7108"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7109"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7110"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7111"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7112"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7113"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7114"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7115"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7116"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7117"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7118"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/A"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7119"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7120"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7121"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7122"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7201"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7301"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#%C2%A7302"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/B"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/C"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/D"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/E"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/F"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/24-76#/titles/I/subtitles/G"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,209 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://code.dccouncil.us/us/dc/council/laws/1-86/us/dc/council/laws/docs/1-86.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/1-86"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title I.
+Title II.
+Title III.
+Title IV.
+Title V.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 1-86.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 1-86</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-09-29</oll:dateEffective>
+    <oll:docId>D.C. Law 1-86</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7303">
+    <oll:cite xml:lang="en">§ 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7304">
+    <oll:cite xml:lang="en">§ 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|III|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7404">
+    <oll:cite xml:lang="en">§ 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7405">
+    <oll:cite xml:lang="en">§ 405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7406">
+    <oll:cite xml:lang="en">§ 406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7407">
+    <oll:cite xml:lang="en">§ 407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7408">
+    <oll:cite xml:lang="en">§ 408</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|408|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§408</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7409">
+    <oll:cite xml:lang="en">§ 409</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|409|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§409</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7410">
+    <oll:cite xml:lang="en">§ 410</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|410|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§410</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7501">
+    <oll:cite xml:lang="en">§ 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#§501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/I">
+    <oll:cite xml:lang="en">Title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/II">
+    <oll:cite xml:lang="en">Title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/III">
+    <oll:cite xml:lang="en">Title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/IV">
+    <oll:cite xml:lang="en">Title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/V">
+    <oll:cite xml:lang="en">Title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 1-86|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/1-86#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7302"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7303"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7304"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7401"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7402"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7403"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7404"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7405"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7406"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7407"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7408"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7409"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7410"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7501"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/I"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/II"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/III"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/IV"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#/titles/V"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7101"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7201"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/1-86#%C2%A7301"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

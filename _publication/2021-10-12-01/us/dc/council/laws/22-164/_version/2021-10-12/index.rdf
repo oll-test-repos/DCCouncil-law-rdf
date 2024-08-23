@@ -1,0 +1,385 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="http://lims.dccouncil.us/Download/37932/B22-0250-SignedAct.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/22-164"/>
+    <dcterms:references rdf:resource="http://lims.dccouncil.us/Download/37932/B22-0250-SignedAct.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. VITAL RECORDS
+TITLE II. CONFORMING AMENDMENTS
+TITLE III. NON-GERMANE AMENDMENTS
+TITLE IV. APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 22-164. Vital Records Modernization Amendment Act of 2018.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 22-164</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-30</oll:dateEffective>
+    <oll:docId>D.C. Law 22-164</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7104">
+    <oll:cite xml:lang="en">§ 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7105">
+    <oll:cite xml:lang="en">§ 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7106">
+    <oll:cite xml:lang="en">§ 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7107">
+    <oll:cite xml:lang="en">§ 107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7108">
+    <oll:cite xml:lang="en">§ 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7109">
+    <oll:cite xml:lang="en">§ 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7110">
+    <oll:cite xml:lang="en">§ 110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7111">
+    <oll:cite xml:lang="en">§ 111</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|111|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§111</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7112">
+    <oll:cite xml:lang="en">§ 112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7113">
+    <oll:cite xml:lang="en">§ 113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7114">
+    <oll:cite xml:lang="en">§ 114</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|114|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§114</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7115">
+    <oll:cite xml:lang="en">§ 115</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|115|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§115</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7116">
+    <oll:cite xml:lang="en">§ 116</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|116|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§116</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7117">
+    <oll:cite xml:lang="en">§ 117</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|117|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§117</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7118">
+    <oll:cite xml:lang="en">§ 118</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|118|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§118</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7119">
+    <oll:cite xml:lang="en">§ 119</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|119|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§119</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7120">
+    <oll:cite xml:lang="en">§ 120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7121">
+    <oll:cite xml:lang="en">§ 121</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|121|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§121</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7122">
+    <oll:cite xml:lang="en">§ 122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7123">
+    <oll:cite xml:lang="en">§ 123</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|123|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§123</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7124">
+    <oll:cite xml:lang="en">§ 124</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|124|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§124</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7125">
+    <oll:cite xml:lang="en">§ 125</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|125|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§125</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7126">
+    <oll:cite xml:lang="en">§ 126</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|126|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§126</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7127">
+    <oll:cite xml:lang="en">§ 127</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|127|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§127</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7128">
+    <oll:cite xml:lang="en">§ 128</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|128|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§128</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7129">
+    <oll:cite xml:lang="en">§ 129</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|129|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§129</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7130">
+    <oll:cite xml:lang="en">§ 130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7203">
+    <oll:cite xml:lang="en">§ 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|II|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7303">
+    <oll:cite xml:lang="en">§ 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7304">
+    <oll:cite xml:lang="en">§ 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|III|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/I">
+    <oll:cite xml:lang="en">title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/II">
+    <oll:cite xml:lang="en">title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/III">
+    <oll:cite xml:lang="en">title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/IV">
+    <oll:cite xml:lang="en">title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-164|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-164#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7105"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7106"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7107"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7108"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7109"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7110"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7111"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7112"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7113"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7114"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7115"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7116"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7117"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7118"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7119"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7120"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7121"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7122"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7123"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7124"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7125"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7126"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7127"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7128"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7129"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7130"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7201"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7202"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7203"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7301"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/II"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7302"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7303"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7304"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7401"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7402"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7403"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/III"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#/titles/IV"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7101"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7102"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7103"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-164#%C2%A7104"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

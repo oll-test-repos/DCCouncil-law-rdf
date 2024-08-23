@@ -1,0 +1,140 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/congress/laws/public/115-31"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE IX. SOAR REAUTHORIZATION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Pub. L. 115-31, Div. E, title IX.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: Pub. L. 115-31</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-05-05</oll:dateEffective>
+    <oll:docId>Pub. L. 115-31</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX">
+    <oll:cite xml:lang="en">title IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7901">
+    <oll:cite xml:lang="en">§ 901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7902">
+    <oll:cite xml:lang="en">§ 902</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|902|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§902</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7903">
+    <oll:cite xml:lang="en">§ 903</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|903|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§903</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7904">
+    <oll:cite xml:lang="en">§ 904</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|904|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§904</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7905">
+    <oll:cite xml:lang="en">§ 905</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|905|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§905</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7906">
+    <oll:cite xml:lang="en">§ 906</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|906|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§906</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7907">
+    <oll:cite xml:lang="en">§ 907</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|907|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§907</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7908">
+    <oll:cite xml:lang="en">§ 908</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|908|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§908</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7909">
+    <oll:cite xml:lang="en">§ 909</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|909|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§909</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7910">
+    <oll:cite xml:lang="en">§ 910</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|910|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§910</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7911">
+    <oll:cite xml:lang="en">§ 911</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|911|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§911</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7912">
+    <oll:cite xml:lang="en">§ 912</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|912|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§912</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7913">
+    <oll:cite xml:lang="en">§ 913</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 115-31|IX|913|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/115-31#/titles/IX#§913</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7908"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7909"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7910"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7911"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7912"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7913"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7901"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7902"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7903"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7904"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7905"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7906"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/115-31#/titles/IX%23%C2%A7907"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

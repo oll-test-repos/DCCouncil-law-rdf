@@ -1,0 +1,346 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://code.dccouncil.us/us/dc/council/laws/14-190/us/dc/council/laws/docs/14-190.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/14-190"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">D.C. Law 14-190. Fiscal Year 2003 Budget Support Act of 2002.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 14-190</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-10-01</oll:dateEffective>
+    <oll:docId>D.C. Law 14-190</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71132">
+    <oll:cite xml:lang="en">§ 1132</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1132|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1132</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71141">
+    <oll:cite xml:lang="en">§ 1141</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1141|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1141</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71142">
+    <oll:cite xml:lang="en">§ 1142</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1142|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1142</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71143">
+    <oll:cite xml:lang="en">§ 1143</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1143|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1143</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71144">
+    <oll:cite xml:lang="en">§ 1144</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1144|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1144</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71145">
+    <oll:cite xml:lang="en">§ 1145</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1145|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1145</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71146">
+    <oll:cite xml:lang="en">§ 1146</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1146|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1146</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71147">
+    <oll:cite xml:lang="en">§ 1147</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1147|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1147</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71201">
+    <oll:cite xml:lang="en">§ 1201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71202">
+    <oll:cite xml:lang="en">§ 1202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71203">
+    <oll:cite xml:lang="en">§ 1203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71204">
+    <oll:cite xml:lang="en">§ 1204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71501">
+    <oll:cite xml:lang="en">§ 1501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71502">
+    <oll:cite xml:lang="en">§ 1502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71503">
+    <oll:cite xml:lang="en">§ 1503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71504">
+    <oll:cite xml:lang="en">§ 1504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71505">
+    <oll:cite xml:lang="en">§ 1505</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1505|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1505</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71506">
+    <oll:cite xml:lang="en">§ 1506</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1506|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1506</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71551">
+    <oll:cite xml:lang="en">§ 1551</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1551|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1551</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71552">
+    <oll:cite xml:lang="en">§ 1552</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1552|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1552</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71553">
+    <oll:cite xml:lang="en">§ 1553</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1553|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1553</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71554">
+    <oll:cite xml:lang="en">§ 1554</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1554|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1554</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71555">
+    <oll:cite xml:lang="en">§ 1555</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1555|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1555</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71556">
+    <oll:cite xml:lang="en">§ 1556</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|1556|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§1556</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72001">
+    <oll:cite xml:lang="en">§ 2001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72002">
+    <oll:cite xml:lang="en">§ 2002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72003">
+    <oll:cite xml:lang="en">§ 2003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72004">
+    <oll:cite xml:lang="en">§ 2004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72005">
+    <oll:cite xml:lang="en">§ 2005</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2005|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72006">
+    <oll:cite xml:lang="en">§ 2006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72702">
+    <oll:cite xml:lang="en">§ 2702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|2702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§2702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73002">
+    <oll:cite xml:lang="en">§ 3002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73102">
+    <oll:cite xml:lang="en">§ 3102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73202">
+    <oll:cite xml:lang="en">§ 3202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73422">
+    <oll:cite xml:lang="en">§ 3422</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3422|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3422</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73472">
+    <oll:cite xml:lang="en">§ 3472</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3472|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3472</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73502">
+    <oll:cite xml:lang="en">§ 3502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73503">
+    <oll:cite xml:lang="en">§ 3503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73802">
+    <oll:cite xml:lang="en">§ 3802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73803">
+    <oll:cite xml:lang="en">§ 3803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 14-190|3803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/14-190#§3803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71201"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71202"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71203"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71204"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71501"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71502"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71503"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71504"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71505"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71506"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71551"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71552"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71553"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71554"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71555"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71556"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72001"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72002"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72003"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72004"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71132"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72005"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72006"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A72702"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73002"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73102"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73202"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73422"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73472"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73502"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73503"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71141"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73802"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A73803"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71142"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71143"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71144"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71145"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71146"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/14-190#%C2%A71147"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

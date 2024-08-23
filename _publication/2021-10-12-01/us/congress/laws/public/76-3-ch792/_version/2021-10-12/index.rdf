@@ -1,0 +1,446 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/congress/laws/public/76-3-ch792"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Ch I.
+Ch II.
+Ch III.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">ch. 792.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: Stat. 76-3-ch792</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-10-09</oll:dateEffective>
+    <oll:docId>Stat. 76-3-ch792</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I">
+    <oll:cite xml:lang="en">ch I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A71">
+    <oll:cite xml:lang="en">§ 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/I#§1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A72">
+    <oll:cite xml:lang="en">§ 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|I|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/I#§2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A73">
+    <oll:cite xml:lang="en">§ 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|I|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/I#§3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II">
+    <oll:cite xml:lang="en">ch II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A71">
+    <oll:cite xml:lang="en">§ 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A711">
+    <oll:cite xml:lang="en">§ 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A712">
+    <oll:cite xml:lang="en">§ 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A713">
+    <oll:cite xml:lang="en">§ 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A714">
+    <oll:cite xml:lang="en">§ 14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A715">
+    <oll:cite xml:lang="en">§ 15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A716">
+    <oll:cite xml:lang="en">§ 16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A717">
+    <oll:cite xml:lang="en">§ 17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A718">
+    <oll:cite xml:lang="en">§ 18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A719">
+    <oll:cite xml:lang="en">§ 19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A72">
+    <oll:cite xml:lang="en">§ 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A720">
+    <oll:cite xml:lang="en">§ 20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A720a">
+    <oll:cite xml:lang="en">§ 20a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|20a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§20a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A721">
+    <oll:cite xml:lang="en">§ 21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A722">
+    <oll:cite xml:lang="en">§ 22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A724">
+    <oll:cite xml:lang="en">§ 24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A725">
+    <oll:cite xml:lang="en">§ 25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726">
+    <oll:cite xml:lang="en">§ 26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726a">
+    <oll:cite xml:lang="en">§ 26a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|26a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§26a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726b">
+    <oll:cite xml:lang="en">§ 26b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|26b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§26b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A727">
+    <oll:cite xml:lang="en">§ 27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728">
+    <oll:cite xml:lang="en">§ 28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|28|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§28</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728a">
+    <oll:cite xml:lang="en">§ 28a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|28a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§28a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728b">
+    <oll:cite xml:lang="en">§ 28b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|28b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§28b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A729">
+    <oll:cite xml:lang="en">§ 29</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|29|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§29</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A73">
+    <oll:cite xml:lang="en">§ 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A731">
+    <oll:cite xml:lang="en">§ 31</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|31|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§31</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A738">
+    <oll:cite xml:lang="en">§ 38</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|38|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§38</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A739">
+    <oll:cite xml:lang="en">§ 39</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|39|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§39</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A74">
+    <oll:cite xml:lang="en">§ 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A740">
+    <oll:cite xml:lang="en">§ 40</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|40|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§40</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A741">
+    <oll:cite xml:lang="en">§ 41</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|41|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§41</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A743">
+    <oll:cite xml:lang="en">§ 43</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|43|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§43</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A79">
+    <oll:cite xml:lang="en">§ 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|II|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/II#§9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III">
+    <oll:cite xml:lang="en">ch III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A751">
+    <oll:cite xml:lang="en">§ 51</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|51|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§51</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A752">
+    <oll:cite xml:lang="en">§ 52</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|52|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§52</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A753">
+    <oll:cite xml:lang="en">§ 53</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|53|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§53</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A754">
+    <oll:cite xml:lang="en">§ 54</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|54|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§54</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A755">
+    <oll:cite xml:lang="en">§ 55</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|55|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§55</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A756">
+    <oll:cite xml:lang="en">§ 56</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|56|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§56</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A757">
+    <oll:cite xml:lang="en">§ 57</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|57|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§57</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A758">
+    <oll:cite xml:lang="en">§ 58</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|58|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§58</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A759">
+    <oll:cite xml:lang="en">§ 59</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|59|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§59</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A760">
+    <oll:cite xml:lang="en">§ 60</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|60|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§60</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A761">
+    <oll:cite xml:lang="en">§ 61</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|61|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§61</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A762">
+    <oll:cite xml:lang="en">§ 62</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 76-3-ch792|III|62|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/76-3-ch792#/ches/III#§62</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A713"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A714"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A715"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A716"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A717"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A718"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A719"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A72"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A720"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A720a"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A721"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A722"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A724"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A725"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726a"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A726b"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A727"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728a"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A728b"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A729"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A73"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A731"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A738"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A739"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A74"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A740"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A741"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A743"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A71"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A79"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A751"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A752"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A753"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A754"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A755"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A756"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A757"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A758"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A72"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A759"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A760"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A761"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/III%23%C2%A762"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/I%23%C2%A73"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A71"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A711"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/76-3-ch792#/ches/II%23%C2%A712"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,114 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://code.dccouncil.us/us/dc/council/laws/5-165/us/dc/council/laws/docs/5-165.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/5-165"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">D.C. Law 5-165. District of Columbia Air Pollution Control Act of 1984.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 5-165</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-03-15</oll:dateEffective>
+    <oll:docId>D.C. Law 5-165</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A74">
+    <oll:cite xml:lang="en">§ 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75">
+    <oll:cite xml:lang="en">§ 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75a">
+    <oll:cite xml:lang="en">§ 5a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75b">
+    <oll:cite xml:lang="en">§ 5b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75c">
+    <oll:cite xml:lang="en">§ 5c</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5c|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5c</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75d">
+    <oll:cite xml:lang="en">§ 5d</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5d|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5d</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75e">
+    <oll:cite xml:lang="en">§ 5e</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5e|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5e</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75f">
+    <oll:cite xml:lang="en">§ 5f</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5f|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5f</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75g">
+    <oll:cite xml:lang="en">§ 5g</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5g|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5g</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75h">
+    <oll:cite xml:lang="en">§ 5h</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|5h|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§5h</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A76">
+    <oll:cite xml:lang="en">§ 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 5-165|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/5-165#§6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75g"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75h"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A76"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A74"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75a"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75b"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75c"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75d"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75e"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/5-165#%C2%A75f"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

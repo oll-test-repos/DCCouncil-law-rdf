@@ -1,0 +1,768 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://code.dccouncil.us/us/dc/council/laws/18-371/us/dc/council/laws/docs/18-371.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/18-371"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title I. General Provisions
+Title II. Procurement Organization
+Title III. Contractor Standards
+Title IV. Source Selection and Contract Formation
+Title V. Types of Contracts
+Title VI. Procurement of Construction Projects and Related
+Title VII. Bonds and Other Forms of Security
+Title VIII. Supply Management
+Title IX. Prohibited Actions; Remedies
+Title X. Contract Appeals Board
+Title XI. Miscellaneous Provisions
+Title XII. Repealed Provisions; Transfers and Continuations
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 18-371. Procurement Practices Reform Act of 2010.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 18-371</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-04-08</oll:dateEffective>
+    <oll:docId>D.C. Law 18-371</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71001">
+    <oll:cite xml:lang="en">§ 1001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71002">
+    <oll:cite xml:lang="en">§ 1002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71003">
+    <oll:cite xml:lang="en">§ 1003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71004">
+    <oll:cite xml:lang="en">§ 1004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71005">
+    <oll:cite xml:lang="en">§ 1005</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1005|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71006">
+    <oll:cite xml:lang="en">§ 1006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71007">
+    <oll:cite xml:lang="en">§ 1007</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1007|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1007</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71008">
+    <oll:cite xml:lang="en">§ 1008</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|1008|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1008</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7104">
+    <oll:cite xml:lang="en">§ 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7105">
+    <oll:cite xml:lang="en">§ 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71101">
+    <oll:cite xml:lang="en">§ 1101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71102">
+    <oll:cite xml:lang="en">§ 1102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71103">
+    <oll:cite xml:lang="en">§ 1103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71104">
+    <oll:cite xml:lang="en">§ 1104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71105">
+    <oll:cite xml:lang="en">§ 1105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71106">
+    <oll:cite xml:lang="en">§ 1106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|1106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71202">
+    <oll:cite xml:lang="en">§ 1202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XII|1202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71203">
+    <oll:cite xml:lang="en">§ 1203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XII|1203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§1203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7203">
+    <oll:cite xml:lang="en">§ 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7204">
+    <oll:cite xml:lang="en">§ 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7205">
+    <oll:cite xml:lang="en">§ 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7206">
+    <oll:cite xml:lang="en">§ 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7404">
+    <oll:cite xml:lang="en">§ 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7405">
+    <oll:cite xml:lang="en">§ 405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7406">
+    <oll:cite xml:lang="en">§ 406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7407">
+    <oll:cite xml:lang="en">§ 407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7408">
+    <oll:cite xml:lang="en">§ 408</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|408|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§408</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7409">
+    <oll:cite xml:lang="en">§ 409</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|409|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§409</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7410">
+    <oll:cite xml:lang="en">§ 410</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|410|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§410</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7411">
+    <oll:cite xml:lang="en">§ 411</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|411|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§411</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7412">
+    <oll:cite xml:lang="en">§ 412</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|412|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§412</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7413">
+    <oll:cite xml:lang="en">§ 413</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|413|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§413</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7414">
+    <oll:cite xml:lang="en">§ 414</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|414|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§414</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7415">
+    <oll:cite xml:lang="en">§ 415</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|415|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§415</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7416">
+    <oll:cite xml:lang="en">§ 416</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|416|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§416</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7417">
+    <oll:cite xml:lang="en">§ 417</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|417|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§417</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7418">
+    <oll:cite xml:lang="en">§ 418</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|418|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§418</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7419">
+    <oll:cite xml:lang="en">§ 419</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|419|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§419</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7420">
+    <oll:cite xml:lang="en">§ 420</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|420|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§420</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7501">
+    <oll:cite xml:lang="en">§ 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7502">
+    <oll:cite xml:lang="en">§ 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|V|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7503">
+    <oll:cite xml:lang="en">§ 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|V|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7504">
+    <oll:cite xml:lang="en">§ 504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|V|504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7601">
+    <oll:cite xml:lang="en">§ 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VI|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7602">
+    <oll:cite xml:lang="en">§ 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VI|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7603">
+    <oll:cite xml:lang="en">§ 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VI|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7604">
+    <oll:cite xml:lang="en">§ 604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VI|604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7701">
+    <oll:cite xml:lang="en">§ 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7702">
+    <oll:cite xml:lang="en">§ 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7703">
+    <oll:cite xml:lang="en">§ 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7704">
+    <oll:cite xml:lang="en">§ 704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7705">
+    <oll:cite xml:lang="en">§ 705</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|705|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§705</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7706">
+    <oll:cite xml:lang="en">§ 706</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|706|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§706</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7801">
+    <oll:cite xml:lang="en">§ 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7802">
+    <oll:cite xml:lang="en">§ 802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7802a">
+    <oll:cite xml:lang="en">§ 802a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|802a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§802a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7803">
+    <oll:cite xml:lang="en">§ 803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7804">
+    <oll:cite xml:lang="en">§ 804</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|804|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§804</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7805">
+    <oll:cite xml:lang="en">§ 805</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|805|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§805</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7901">
+    <oll:cite xml:lang="en">§ 901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7902">
+    <oll:cite xml:lang="en">§ 902</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|902|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§902</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7903">
+    <oll:cite xml:lang="en">§ 903</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|903|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§903</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7904">
+    <oll:cite xml:lang="en">§ 904</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|904|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§904</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7905">
+    <oll:cite xml:lang="en">§ 905</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|905|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§905</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7906">
+    <oll:cite xml:lang="en">§ 906</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|906|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§906</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7907">
+    <oll:cite xml:lang="en">§ 907</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|907|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§907</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7908">
+    <oll:cite xml:lang="en">§ 908</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|908|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§908</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7909">
+    <oll:cite xml:lang="en">§ 909</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|909|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§909</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7910">
+    <oll:cite xml:lang="en">§ 910</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|910|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#§910</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/I">
+    <oll:cite xml:lang="en">Title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/II">
+    <oll:cite xml:lang="en">Title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/III">
+    <oll:cite xml:lang="en">Title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/IV">
+    <oll:cite xml:lang="en">Title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/IX">
+    <oll:cite xml:lang="en">Title IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/V">
+    <oll:cite xml:lang="en">Title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VI">
+    <oll:cite xml:lang="en">Title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VII">
+    <oll:cite xml:lang="en">Title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VIII">
+    <oll:cite xml:lang="en">Title VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/X">
+    <oll:cite xml:lang="en">Title X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/XI">
+    <oll:cite xml:lang="en">Title XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/XII">
+    <oll:cite xml:lang="en">Title XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 18-371|XII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/18-371#/titles/XII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VIII"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/X"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/XI"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/XII"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71001"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71002"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71003"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71004"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71005"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71006"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71007"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71008"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7101"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7102"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7103"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7104"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7105"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71101"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71102"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71103"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71104"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71105"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71106"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71202"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A71203"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7201"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7202"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7203"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7204"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7205"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/II"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7206"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7301"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7302"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7401"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7402"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7403"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7404"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7405"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7406"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7407"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/III"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7408"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7409"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7410"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7411"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7412"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7413"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7414"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7415"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7416"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7417"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/IV"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7418"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7419"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7420"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7501"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7502"/>
+    <rdf:_65 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7503"/>
+    <rdf:_66 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7504"/>
+    <rdf:_67 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7601"/>
+    <rdf:_68 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7602"/>
+    <rdf:_69 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7603"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/IX"/>
+    <rdf:_70 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7604"/>
+    <rdf:_71 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7701"/>
+    <rdf:_72 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7702"/>
+    <rdf:_73 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7703"/>
+    <rdf:_74 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7704"/>
+    <rdf:_75 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7705"/>
+    <rdf:_76 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7706"/>
+    <rdf:_77 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7801"/>
+    <rdf:_78 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7802"/>
+    <rdf:_79 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7802a"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/V"/>
+    <rdf:_80 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7803"/>
+    <rdf:_81 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7804"/>
+    <rdf:_82 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7805"/>
+    <rdf:_83 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7901"/>
+    <rdf:_84 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7902"/>
+    <rdf:_85 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7903"/>
+    <rdf:_86 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7904"/>
+    <rdf:_87 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7905"/>
+    <rdf:_88 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7906"/>
+    <rdf:_89 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7907"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VI"/>
+    <rdf:_90 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7908"/>
+    <rdf:_91 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7909"/>
+    <rdf:_92 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#%C2%A7910"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/18-371#/titles/VII"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

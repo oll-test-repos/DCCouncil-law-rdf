@@ -1,0 +1,90 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="http://www.loc.gov/law/help/statutes-at-large/45th-congress/session-2/c45s2ch180.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/congress/laws/public/45-2-ch180"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">ch. 180. An act providing a permanent form of government for the District of Columbia.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: Stat. 45-2-ch180</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1878-06-11</oll:dateEffective>
+    <oll:docId>Stat. 45-2-ch180</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A71">
+    <oll:cite xml:lang="en">§ 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A710">
+    <oll:cite xml:lang="en">§ 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A712">
+    <oll:cite xml:lang="en">§ 12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A72">
+    <oll:cite xml:lang="en">§ 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A73">
+    <oll:cite xml:lang="en">§ 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A75">
+    <oll:cite xml:lang="en">§ 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A78">
+    <oll:cite xml:lang="en">§ 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A79">
+    <oll:cite xml:lang="en">§ 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stat. 45-2-ch180|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/45-2-ch180#§9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A71"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A710"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A712"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A72"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A73"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A75"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A78"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/45-2-ch180#%C2%A79"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

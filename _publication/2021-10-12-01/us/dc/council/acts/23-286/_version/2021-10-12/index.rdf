@@ -1,0 +1,1372 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.us/downloads/LIMS/44543/Signed_Act/B23-0733-SignedAct.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/acts/23-286"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. LABOR, WORKFORCE DEVELOPMENT, AND EDUCATION
+TITLE II. BUSINESS DEVELOPMENT AND CONSUMER PROTECTION
+TITLE III. JUDICIARY AND PUBLIC SAFETY.
+TITLE IV. HEALTH AND HUMAN SERVICES.
+TITLE V. GOVERNMENT DIRECTION AND SUPPORT.
+TITLE VI. BORROWING AUTHORITY
+TITLE VII. REVENUE BONDS
+TITLE VIII. APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 23-286. COVID-19 Response Supplemental Emergency Amendment Act of 2020.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Act 23-286</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-10</oll:dateEffective>
+    <oll:docId>D.C. Act 23-286</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7104">
+    <oll:cite xml:lang="en">§ 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7105">
+    <oll:cite xml:lang="en">§ 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7106">
+    <oll:cite xml:lang="en">§ 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7203">
+    <oll:cite xml:lang="en">§ 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7203A">
+    <oll:cite xml:lang="en">§ 203A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|203A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§203A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204">
+    <oll:cite xml:lang="en">§ 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204A">
+    <oll:cite xml:lang="en">§ 204A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|204A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§204A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204B">
+    <oll:cite xml:lang="en">§ 204B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|204B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§204B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204C">
+    <oll:cite xml:lang="en">§ 204C</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|204C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§204C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7205">
+    <oll:cite xml:lang="en">§ 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7206">
+    <oll:cite xml:lang="en">§ 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7207">
+    <oll:cite xml:lang="en">§ 207</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|207|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§207</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7208">
+    <oll:cite xml:lang="en">§ 208</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|208|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§208</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7209">
+    <oll:cite xml:lang="en">§ 209</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|209|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§209</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7210">
+    <oll:cite xml:lang="en">§ 210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7211">
+    <oll:cite xml:lang="en">§ 211</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|211|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§211</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7212">
+    <oll:cite xml:lang="en">§ 212</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|212|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§212</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7303">
+    <oll:cite xml:lang="en">§ 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7304">
+    <oll:cite xml:lang="en">§ 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7305">
+    <oll:cite xml:lang="en">§ 305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7306">
+    <oll:cite xml:lang="en">§ 306</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|306|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§306</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7501">
+    <oll:cite xml:lang="en">§ 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7501A">
+    <oll:cite xml:lang="en">§ 501A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|501A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§501A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7502">
+    <oll:cite xml:lang="en">§ 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7503">
+    <oll:cite xml:lang="en">§ 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7504">
+    <oll:cite xml:lang="en">§ 504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7505">
+    <oll:cite xml:lang="en">§ 505</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|505|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§505</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7506">
+    <oll:cite xml:lang="en">§ 506</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|506|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§506</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7507">
+    <oll:cite xml:lang="en">§ 507</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|507|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§507</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7508">
+    <oll:cite xml:lang="en">§ 508</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|508|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§508</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7509">
+    <oll:cite xml:lang="en">§ 509</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|509|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§509</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7601">
+    <oll:cite xml:lang="en">§ 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7602">
+    <oll:cite xml:lang="en">§ 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7603">
+    <oll:cite xml:lang="en">§ 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7604">
+    <oll:cite xml:lang="en">§ 604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7605">
+    <oll:cite xml:lang="en">§ 605</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|605|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§605</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7606">
+    <oll:cite xml:lang="en">§ 606</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|606|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§606</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7607">
+    <oll:cite xml:lang="en">§ 607</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|607|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§607</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7608">
+    <oll:cite xml:lang="en">§ 608</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|608|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§608</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7609">
+    <oll:cite xml:lang="en">§ 609</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|609|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§609</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7610">
+    <oll:cite xml:lang="en">§ 610</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|610|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§610</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7611">
+    <oll:cite xml:lang="en">§ 611</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|611|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§611</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7612">
+    <oll:cite xml:lang="en">§ 612</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|612|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§612</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7613">
+    <oll:cite xml:lang="en">§ 613</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|613|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§613</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7614">
+    <oll:cite xml:lang="en">§ 614</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|614|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§614</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7621">
+    <oll:cite xml:lang="en">§ 621</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|621|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§621</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7622">
+    <oll:cite xml:lang="en">§ 622</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|622|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§622</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7623">
+    <oll:cite xml:lang="en">§ 623</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|623|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§623</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7624">
+    <oll:cite xml:lang="en">§ 624</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|624|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§624</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7625">
+    <oll:cite xml:lang="en">§ 625</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|625|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§625</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7626">
+    <oll:cite xml:lang="en">§ 626</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|626|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§626</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7627">
+    <oll:cite xml:lang="en">§ 627</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|627|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§627</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7628">
+    <oll:cite xml:lang="en">§ 628</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|628|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§628</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7629">
+    <oll:cite xml:lang="en">§ 629</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|629|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§629</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7630">
+    <oll:cite xml:lang="en">§ 630</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|630|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§630</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7631">
+    <oll:cite xml:lang="en">§ 631</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|631|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§631</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7632">
+    <oll:cite xml:lang="en">§ 632</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|632|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§632</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7633">
+    <oll:cite xml:lang="en">§ 633</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|633|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§633</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7634">
+    <oll:cite xml:lang="en">§ 634</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|634|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§634</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7701">
+    <oll:cite xml:lang="en">§ 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7702">
+    <oll:cite xml:lang="en">§ 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7703">
+    <oll:cite xml:lang="en">§ 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7704">
+    <oll:cite xml:lang="en">§ 704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7705">
+    <oll:cite xml:lang="en">§ 705</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|705|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§705</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7706">
+    <oll:cite xml:lang="en">§ 706</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|706|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§706</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7707">
+    <oll:cite xml:lang="en">§ 707</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|707|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§707</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7708">
+    <oll:cite xml:lang="en">§ 708</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|708|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§708</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7709">
+    <oll:cite xml:lang="en">§ 709</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|709|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§709</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7710">
+    <oll:cite xml:lang="en">§ 710</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|710|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§710</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7711">
+    <oll:cite xml:lang="en">§ 711</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|711|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§711</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7712">
+    <oll:cite xml:lang="en">§ 712</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|712|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§712</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7713">
+    <oll:cite xml:lang="en">§ 713</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|713|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§713</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7714">
+    <oll:cite xml:lang="en">§ 714</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|714|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§714</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7715">
+    <oll:cite xml:lang="en">§ 715</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|715|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§715</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7716">
+    <oll:cite xml:lang="en">§ 716</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|716|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§716</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7721">
+    <oll:cite xml:lang="en">§ 721</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|721|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§721</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7722">
+    <oll:cite xml:lang="en">§ 722</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|722|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§722</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7723">
+    <oll:cite xml:lang="en">§ 723</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|723|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§723</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7724">
+    <oll:cite xml:lang="en">§ 724</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|724|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§724</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7725">
+    <oll:cite xml:lang="en">§ 725</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|725|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§725</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7726">
+    <oll:cite xml:lang="en">§ 726</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|726|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§726</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7727">
+    <oll:cite xml:lang="en">§ 727</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|727|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§727</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7728">
+    <oll:cite xml:lang="en">§ 728</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|728|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§728</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7729">
+    <oll:cite xml:lang="en">§ 729</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|729|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§729</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7730">
+    <oll:cite xml:lang="en">§ 730</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|730|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§730</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7731">
+    <oll:cite xml:lang="en">§ 731</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|731|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§731</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7732">
+    <oll:cite xml:lang="en">§ 732</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|732|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§732</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7733">
+    <oll:cite xml:lang="en">§ 733</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|733|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§733</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7734">
+    <oll:cite xml:lang="en">§ 734</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|734|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§734</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7735">
+    <oll:cite xml:lang="en">§ 735</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|735|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§735</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7736">
+    <oll:cite xml:lang="en">§ 736</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|736|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§736</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7741">
+    <oll:cite xml:lang="en">§ 741</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|741|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§741</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7742">
+    <oll:cite xml:lang="en">§ 742</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|742|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§742</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7743">
+    <oll:cite xml:lang="en">§ 743</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|743|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§743</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7744">
+    <oll:cite xml:lang="en">§ 744</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|744|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§744</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7745">
+    <oll:cite xml:lang="en">§ 745</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|745|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§745</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7746">
+    <oll:cite xml:lang="en">§ 746</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|746|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§746</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7747">
+    <oll:cite xml:lang="en">§ 747</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|747|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§747</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7748">
+    <oll:cite xml:lang="en">§ 748</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|748|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§748</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7749">
+    <oll:cite xml:lang="en">§ 749</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|749|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§749</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7750">
+    <oll:cite xml:lang="en">§ 750</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|750|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§750</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7751">
+    <oll:cite xml:lang="en">§ 751</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|751|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§751</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7752">
+    <oll:cite xml:lang="en">§ 752</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|752|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§752</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7753">
+    <oll:cite xml:lang="en">§ 753</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|753|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§753</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7754">
+    <oll:cite xml:lang="en">§ 754</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|754|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§754</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7755">
+    <oll:cite xml:lang="en">§ 755</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|755|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§755</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7756">
+    <oll:cite xml:lang="en">§ 756</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|756|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§756</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7761">
+    <oll:cite xml:lang="en">§ 761</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|761|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§761</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7762">
+    <oll:cite xml:lang="en">§ 762</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|762|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§762</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7763">
+    <oll:cite xml:lang="en">§ 763</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|763|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§763</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7764">
+    <oll:cite xml:lang="en">§ 764</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|764|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§764</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7765">
+    <oll:cite xml:lang="en">§ 765</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|765|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§765</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7766">
+    <oll:cite xml:lang="en">§ 766</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|766|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§766</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7767">
+    <oll:cite xml:lang="en">§ 767</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|767|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§767</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7768">
+    <oll:cite xml:lang="en">§ 768</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|768|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§768</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7769">
+    <oll:cite xml:lang="en">§ 769</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|769|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§769</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7770">
+    <oll:cite xml:lang="en">§ 770</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|770|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§770</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7771">
+    <oll:cite xml:lang="en">§ 771</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|771|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§771</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7772">
+    <oll:cite xml:lang="en">§ 772</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|772|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§772</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7773">
+    <oll:cite xml:lang="en">§ 773</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|773|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§773</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7774">
+    <oll:cite xml:lang="en">§ 774</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|774|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§774</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7775">
+    <oll:cite xml:lang="en">§ 775</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|775|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§775</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7776">
+    <oll:cite xml:lang="en">§ 776</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|776|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§776</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7781">
+    <oll:cite xml:lang="en">§ 781</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|781|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§781</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7782">
+    <oll:cite xml:lang="en">§ 782</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|782|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§782</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7783">
+    <oll:cite xml:lang="en">§ 783</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|783|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§783</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7784">
+    <oll:cite xml:lang="en">§ 784</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|784|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§784</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7785">
+    <oll:cite xml:lang="en">§ 785</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|785|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§785</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7786">
+    <oll:cite xml:lang="en">§ 786</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|786|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§786</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7787">
+    <oll:cite xml:lang="en">§ 787</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|787|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§787</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7788">
+    <oll:cite xml:lang="en">§ 788</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|788|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§788</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7789">
+    <oll:cite xml:lang="en">§ 789</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|789|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§789</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7790">
+    <oll:cite xml:lang="en">§ 790</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|790|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§790</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7791">
+    <oll:cite xml:lang="en">§ 791</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|791|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§791</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7792">
+    <oll:cite xml:lang="en">§ 792</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|792|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§792</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7793">
+    <oll:cite xml:lang="en">§ 793</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|793|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§793</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7794">
+    <oll:cite xml:lang="en">§ 794</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|794|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§794</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7795">
+    <oll:cite xml:lang="en">§ 795</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|795|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§795</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7796">
+    <oll:cite xml:lang="en">§ 796</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|796|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§796</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7801">
+    <oll:cite xml:lang="en">§ 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VIII|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7802">
+    <oll:cite xml:lang="en">§ 802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VIII|802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7803">
+    <oll:cite xml:lang="en">§ 803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VIII|803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#§803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/I">
+    <oll:cite xml:lang="en">title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/II">
+    <oll:cite xml:lang="en">title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/III">
+    <oll:cite xml:lang="en">title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/IV">
+    <oll:cite xml:lang="en">title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/V">
+    <oll:cite xml:lang="en">title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI">
+    <oll:cite xml:lang="en">title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VI/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI/subtitles/B">
+    <oll:cite xml:lang="en">subtitle B of title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VI|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VI/subtitles/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII">
+    <oll:cite xml:lang="en">title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/B">
+    <oll:cite xml:lang="en">subtitle B of title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII/subtitles/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/C">
+    <oll:cite xml:lang="en">subtitle C of title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII/subtitles/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/D">
+    <oll:cite xml:lang="en">subtitle D of title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|D|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII/subtitles/D</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/E">
+    <oll:cite xml:lang="en">subtitle E of title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VII|E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VII/subtitles/E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VIII">
+    <oll:cite xml:lang="en">title VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 23-286|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/23-286#/titles/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286/_changes">
+    <rdf:_100 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7715"/>
+    <rdf:_101 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7716"/>
+    <rdf:_102 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7721"/>
+    <rdf:_103 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7722"/>
+    <rdf:_104 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7723"/>
+    <rdf:_105 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7724"/>
+    <rdf:_106 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7725"/>
+    <rdf:_107 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7726"/>
+    <rdf:_108 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7727"/>
+    <rdf:_109 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7728"/>
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII"/>
+    <rdf:_110 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7729"/>
+    <rdf:_111 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7730"/>
+    <rdf:_112 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7731"/>
+    <rdf:_113 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7732"/>
+    <rdf:_114 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7733"/>
+    <rdf:_115 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7734"/>
+    <rdf:_116 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7735"/>
+    <rdf:_117 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7736"/>
+    <rdf:_118 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7741"/>
+    <rdf:_119 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7742"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/A"/>
+    <rdf:_120 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7743"/>
+    <rdf:_121 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7744"/>
+    <rdf:_122 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7745"/>
+    <rdf:_123 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7746"/>
+    <rdf:_124 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7747"/>
+    <rdf:_125 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7748"/>
+    <rdf:_126 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7749"/>
+    <rdf:_127 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7750"/>
+    <rdf:_128 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7751"/>
+    <rdf:_129 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7752"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/B"/>
+    <rdf:_130 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7753"/>
+    <rdf:_131 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7754"/>
+    <rdf:_132 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7755"/>
+    <rdf:_133 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7756"/>
+    <rdf:_134 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7761"/>
+    <rdf:_135 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7762"/>
+    <rdf:_136 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7763"/>
+    <rdf:_137 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7764"/>
+    <rdf:_138 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7765"/>
+    <rdf:_139 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7766"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/C"/>
+    <rdf:_140 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7767"/>
+    <rdf:_141 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7768"/>
+    <rdf:_142 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7769"/>
+    <rdf:_143 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7770"/>
+    <rdf:_144 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7771"/>
+    <rdf:_145 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7772"/>
+    <rdf:_146 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7773"/>
+    <rdf:_147 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7774"/>
+    <rdf:_148 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7775"/>
+    <rdf:_149 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7776"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/D"/>
+    <rdf:_150 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7781"/>
+    <rdf:_151 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7782"/>
+    <rdf:_152 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7783"/>
+    <rdf:_153 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7784"/>
+    <rdf:_154 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7785"/>
+    <rdf:_155 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7786"/>
+    <rdf:_156 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7787"/>
+    <rdf:_157 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7788"/>
+    <rdf:_158 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7789"/>
+    <rdf:_159 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7790"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VII/subtitles/E"/>
+    <rdf:_160 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7791"/>
+    <rdf:_161 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7792"/>
+    <rdf:_162 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7793"/>
+    <rdf:_163 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7794"/>
+    <rdf:_164 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7795"/>
+    <rdf:_165 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7796"/>
+    <rdf:_166 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7801"/>
+    <rdf:_167 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7802"/>
+    <rdf:_168 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7803"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VIII"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7101"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7102"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7103"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7104"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7105"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7106"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7201"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7202"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7203"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7203A"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204A"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204B"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7204C"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7205"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7206"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7207"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7208"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7209"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7210"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7211"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7212"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7301"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/II"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7302"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7303"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7304"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7305"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7306"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7401"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7402"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7403"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7501"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7501A"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/III"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7502"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7503"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7504"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7505"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7506"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7507"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7508"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7509"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7601"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7602"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/IV"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7603"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7604"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7605"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7606"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7607"/>
+    <rdf:_65 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7608"/>
+    <rdf:_66 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7609"/>
+    <rdf:_67 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7610"/>
+    <rdf:_68 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7611"/>
+    <rdf:_69 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7612"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/V"/>
+    <rdf:_70 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7613"/>
+    <rdf:_71 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7614"/>
+    <rdf:_72 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7621"/>
+    <rdf:_73 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7622"/>
+    <rdf:_74 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7623"/>
+    <rdf:_75 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7624"/>
+    <rdf:_76 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7625"/>
+    <rdf:_77 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7626"/>
+    <rdf:_78 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7627"/>
+    <rdf:_79 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7628"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI"/>
+    <rdf:_80 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7629"/>
+    <rdf:_81 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7630"/>
+    <rdf:_82 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7631"/>
+    <rdf:_83 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7632"/>
+    <rdf:_84 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7633"/>
+    <rdf:_85 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7634"/>
+    <rdf:_86 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7701"/>
+    <rdf:_87 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7702"/>
+    <rdf:_88 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7703"/>
+    <rdf:_89 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7704"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI/subtitles/A"/>
+    <rdf:_90 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7705"/>
+    <rdf:_91 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7706"/>
+    <rdf:_92 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7707"/>
+    <rdf:_93 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7708"/>
+    <rdf:_94 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7709"/>
+    <rdf:_95 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7710"/>
+    <rdf:_96 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7711"/>
+    <rdf:_97 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7712"/>
+    <rdf:_98 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7713"/>
+    <rdf:_99 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#%C2%A7714"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/23-286#/titles/VI/subtitles/B"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

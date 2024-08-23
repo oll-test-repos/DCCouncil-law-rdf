@@ -1,0 +1,971 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://www.gpo.gov/fdsys/pkg/STATUTE-87/pdf/STATUTE-87-Pg774.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/congress/laws/public/93-198"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title I.
+Title II.
+Title III.
+Title IV.
+Title VII.
+Title V.
+Title VI.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Pub. L. 93-198. District of Columbia Charter Act.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: Pub. L. 93-198</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-12-24</oll:dateEffective>
+    <oll:docId>Pub. L. 93-198</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424">
+    <oll:cite xml:lang="en">§ 424</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|424|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#§424</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424a">
+    <oll:cite xml:lang="en">§ 424a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|424a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#§424a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424b">
+    <oll:cite xml:lang="en">§ 424b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|424b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#§424b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7456">
+    <oll:cite xml:lang="en">§ 456</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|456|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#§456</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I">
+    <oll:cite xml:lang="en">Title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/I#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|I|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/I#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/I#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II">
+    <oll:cite xml:lang="en">Title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/II#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/II#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7204">
+    <oll:cite xml:lang="en">§ 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|II|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/II#§204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III">
+    <oll:cite xml:lang="en">Title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/III#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/III#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7303">
+    <oll:cite xml:lang="en">§ 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/III#§303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV">
+    <oll:cite xml:lang="en">Title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7404">
+    <oll:cite xml:lang="en">§ 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7411">
+    <oll:cite xml:lang="en">§ 411</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|411|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§411</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7412">
+    <oll:cite xml:lang="en">§ 412</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|412|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§412</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7413">
+    <oll:cite xml:lang="en">§ 413</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|413|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§413</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7421">
+    <oll:cite xml:lang="en">§ 421</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|421|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§421</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7422">
+    <oll:cite xml:lang="en">§ 422</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|422|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§422</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7423">
+    <oll:cite xml:lang="en">§ 423</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|423|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§423</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7431">
+    <oll:cite xml:lang="en">§ 431</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|431|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§431</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7432">
+    <oll:cite xml:lang="en">§ 432</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|432|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§432</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7433">
+    <oll:cite xml:lang="en">§ 433</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|433|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§433</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7434">
+    <oll:cite xml:lang="en">§ 434</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|434|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§434</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7435">
+    <oll:cite xml:lang="en">§ 435</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|435|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§435</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7441">
+    <oll:cite xml:lang="en">§ 441</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|441|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§441</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7442">
+    <oll:cite xml:lang="en">§ 442</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|442|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§442</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7443">
+    <oll:cite xml:lang="en">§ 443</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|443|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§443</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7444">
+    <oll:cite xml:lang="en">§ 444</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|444|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§444</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7445">
+    <oll:cite xml:lang="en">§ 445</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|445|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§445</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7445a">
+    <oll:cite xml:lang="en">§ 445a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|445a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§445a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446">
+    <oll:cite xml:lang="en">§ 446</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|446|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§446</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446a">
+    <oll:cite xml:lang="en">§ 446a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|446a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§446a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446b">
+    <oll:cite xml:lang="en">§ 446b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|446b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§446b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7447">
+    <oll:cite xml:lang="en">§ 447</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|447|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§447</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7448">
+    <oll:cite xml:lang="en">§ 448</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|448|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§448</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7449">
+    <oll:cite xml:lang="en">§ 449</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|449|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§449</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450">
+    <oll:cite xml:lang="en">§ 450</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|450|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§450</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450A">
+    <oll:cite xml:lang="en">§ 450A</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|450A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§450A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450B">
+    <oll:cite xml:lang="en">§ 450B</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|450B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§450B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7451">
+    <oll:cite xml:lang="en">§ 451</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|451|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§451</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7452">
+    <oll:cite xml:lang="en">§ 452</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|452|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§452</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7453">
+    <oll:cite xml:lang="en">§ 453</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|453|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§453</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7455">
+    <oll:cite xml:lang="en">§ 455</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|455|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§455</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7461">
+    <oll:cite xml:lang="en">§ 461</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|461|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§461</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7462">
+    <oll:cite xml:lang="en">§ 462</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|462|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§462</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7463">
+    <oll:cite xml:lang="en">§ 463</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|463|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§463</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7464">
+    <oll:cite xml:lang="en">§ 464</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|464|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§464</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7465">
+    <oll:cite xml:lang="en">§ 465</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|465|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§465</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7466">
+    <oll:cite xml:lang="en">§ 466</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|466|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§466</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7467">
+    <oll:cite xml:lang="en">§ 467</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|467|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§467</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7472">
+    <oll:cite xml:lang="en">§ 472</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|472|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§472</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7473">
+    <oll:cite xml:lang="en">§ 473</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|473|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§473</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7474">
+    <oll:cite xml:lang="en">§ 474</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|474|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§474</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7475">
+    <oll:cite xml:lang="en">§ 475</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|475|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§475</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7481">
+    <oll:cite xml:lang="en">§ 481</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|481|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§481</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7482">
+    <oll:cite xml:lang="en">§ 482</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|482|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§482</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7483">
+    <oll:cite xml:lang="en">§ 483</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|483|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§483</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7484">
+    <oll:cite xml:lang="en">§ 484</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|484|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§484</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7485">
+    <oll:cite xml:lang="en">§ 485</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|485|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§485</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7486">
+    <oll:cite xml:lang="en">§ 486</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|486|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§486</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7487">
+    <oll:cite xml:lang="en">§ 487</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|487|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§487</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7488">
+    <oll:cite xml:lang="en">§ 488</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|488|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§488</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7489">
+    <oll:cite xml:lang="en">§ 489</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|489|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§489</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7490">
+    <oll:cite xml:lang="en">§ 490</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|490|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§490</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7493">
+    <oll:cite xml:lang="en">§ 493</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|493|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§493</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7495">
+    <oll:cite xml:lang="en">§ 495</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|495|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§495</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7496">
+    <oll:cite xml:lang="en">§ 496</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|IV|496|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/IV#§496</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V">
+    <oll:cite xml:lang="en">Title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7501">
+    <oll:cite xml:lang="en">§ 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/V#§501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7502">
+    <oll:cite xml:lang="en">§ 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|V|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/V#§502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7503">
+    <oll:cite xml:lang="en">§ 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|V|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/V#§503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI">
+    <oll:cite xml:lang="en">Title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7601">
+    <oll:cite xml:lang="en">§ 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VI|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VI#§601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7602">
+    <oll:cite xml:lang="en">§ 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VI|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VI#§602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7603">
+    <oll:cite xml:lang="en">§ 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VI|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VI#§603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7604">
+    <oll:cite xml:lang="en">§ 604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VI|604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VI#§604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII">
+    <oll:cite xml:lang="en">Title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7471">
+    <oll:cite xml:lang="en">§ 471</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|471|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§471</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7701">
+    <oll:cite xml:lang="en">§ 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7702">
+    <oll:cite xml:lang="en">§ 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7703">
+    <oll:cite xml:lang="en">§ 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7704">
+    <oll:cite xml:lang="en">§ 704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7711">
+    <oll:cite xml:lang="en">§ 711</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|711|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§711</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7712">
+    <oll:cite xml:lang="en">§ 712</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|712|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§712</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7713">
+    <oll:cite xml:lang="en">§ 713</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|713|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§713</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7714">
+    <oll:cite xml:lang="en">§ 714</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|714|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§714</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7715">
+    <oll:cite xml:lang="en">§ 715</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|715|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§715</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7716">
+    <oll:cite xml:lang="en">§ 716</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|716|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§716</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7717">
+    <oll:cite xml:lang="en">§ 717</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|717|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§717</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7718">
+    <oll:cite xml:lang="en">§ 718</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|718|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§718</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7719">
+    <oll:cite xml:lang="en">§ 719</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|719|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§719</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7721">
+    <oll:cite xml:lang="en">§ 721</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|721|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§721</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7722">
+    <oll:cite xml:lang="en">§ 722</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|722|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§722</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7723">
+    <oll:cite xml:lang="en">§ 723</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|723|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§723</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7724">
+    <oll:cite xml:lang="en">§ 724</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|724|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§724</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7731">
+    <oll:cite xml:lang="en">§ 731</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|731|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§731</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7732">
+    <oll:cite xml:lang="en">§ 732</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|732|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§732</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7733">
+    <oll:cite xml:lang="en">§ 733</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|733|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§733</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7734">
+    <oll:cite xml:lang="en">§ 734</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|734|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§734</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7736">
+    <oll:cite xml:lang="en">§ 736</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|736|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§736</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7737">
+    <oll:cite xml:lang="en">§ 737</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|737|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§737</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7738">
+    <oll:cite xml:lang="en">§ 738</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|738|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§738</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7739">
+    <oll:cite xml:lang="en">§ 739</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|739|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§739</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7740">
+    <oll:cite xml:lang="en">§ 740</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|740|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§740</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7741">
+    <oll:cite xml:lang="en">§ 741</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|741|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§741</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7742">
+    <oll:cite xml:lang="en">§ 742</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|742|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§742</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7752">
+    <oll:cite xml:lang="en">§ 752</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|752|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§752</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7762">
+    <oll:cite xml:lang="en">§ 762</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|762|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§762</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7771">
+    <oll:cite xml:lang="en">§ 771</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pub. L. 93-198|VII|771|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/congress/laws/public/93-198#/titles/VII#§771</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198/_changes">
+    <rdf:_100 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7724"/>
+    <rdf:_101 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7731"/>
+    <rdf:_102 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7732"/>
+    <rdf:_103 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7733"/>
+    <rdf:_104 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7734"/>
+    <rdf:_105 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7736"/>
+    <rdf:_106 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7737"/>
+    <rdf:_107 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7738"/>
+    <rdf:_108 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7739"/>
+    <rdf:_109 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7740"/>
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III"/>
+    <rdf:_110 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7741"/>
+    <rdf:_111 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7742"/>
+    <rdf:_112 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7752"/>
+    <rdf:_113 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7762"/>
+    <rdf:_114 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7771"/>
+    <rdf:_115 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424"/>
+    <rdf:_116 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424a"/>
+    <rdf:_117 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7424b"/>
+    <rdf:_118 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#%C2%A7456"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7301"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7302"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/III%23%C2%A7303"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7401"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7402"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7403"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7404"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7411"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7412"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7413"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7421"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7422"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7423"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7431"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7432"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7433"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7434"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7435"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7441"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7442"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7443"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7444"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7445"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7445a"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446a"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7446b"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7447"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7101"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7448"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7449"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450A"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7450B"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7451"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7452"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7453"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7455"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7461"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7102"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7462"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7463"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7464"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7465"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7466"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7467"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7472"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7473"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7474"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7475"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/I%23%C2%A7103"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7481"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7482"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7483"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7484"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7485"/>
+    <rdf:_65 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7486"/>
+    <rdf:_66 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7487"/>
+    <rdf:_67 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7488"/>
+    <rdf:_68 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7489"/>
+    <rdf:_69 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7490"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II"/>
+    <rdf:_70 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7493"/>
+    <rdf:_71 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7495"/>
+    <rdf:_72 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/IV%23%C2%A7496"/>
+    <rdf:_73 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V"/>
+    <rdf:_74 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7501"/>
+    <rdf:_75 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7502"/>
+    <rdf:_76 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/V%23%C2%A7503"/>
+    <rdf:_77 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI"/>
+    <rdf:_78 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7601"/>
+    <rdf:_79 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7602"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7201"/>
+    <rdf:_80 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7603"/>
+    <rdf:_81 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VI%23%C2%A7604"/>
+    <rdf:_82 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII"/>
+    <rdf:_83 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7471"/>
+    <rdf:_84 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7701"/>
+    <rdf:_85 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7702"/>
+    <rdf:_86 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7703"/>
+    <rdf:_87 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7704"/>
+    <rdf:_88 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7711"/>
+    <rdf:_89 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7712"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7202"/>
+    <rdf:_90 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7713"/>
+    <rdf:_91 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7714"/>
+    <rdf:_92 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7715"/>
+    <rdf:_93 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7716"/>
+    <rdf:_94 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7717"/>
+    <rdf:_95 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7718"/>
+    <rdf:_96 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7719"/>
+    <rdf:_97 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7721"/>
+    <rdf:_98 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7722"/>
+    <rdf:_99 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/VII%23%C2%A7723"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/93-198#/titles/II%23%C2%A7204"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

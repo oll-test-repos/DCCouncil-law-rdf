@@ -1,0 +1,1849 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://code.dccouncil.us/us/dc/council/laws/4-101/us/dc/council/laws/docs/4-101.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/4-101"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. DEFINITIONS
+TITLE II. ESTABLISHMENT OF PUBLIC ASSISTANCE PROGRAMS AND GENERAL AUTHORITY FOR ADMINISTRATION OF THE ACT
+TITLE III. CRISIS MANAGEMENT OF CHILDREN
+TITLE IV. OLD AGE ASSISTANCE; AID TO THE BLIND; AID TO THE DISABLED; AND MEDICAID PROGRAM ADMINISTRATION
+TITLE V. PUBLIC ASSISTANCE PROGRAMS
+TITLE VI. EMERGENCY PUBLIC ASSISTANCE
+TITLE VII. COMPLEMENTARY PROGRAM RELATIONSHIPS WITH PUBLIC ASSISTANCE PROGRAMS
+TITLE VIII. AWARDS AND METHOD OF PAYMENT
+TITLE IX. INVESTIGATION OF APPLICANTS, ISSUANCE OF IDENTIFICATION CARD, AND CHECK DISTRIBUTION
+TITLE X. HEARING PROCEDURES
+TITLE XI. MISCELLANEOUS PROVISIONS RELATING TO SPECIFIC PAYMENTS
+TITLE XII. PAYMENTS TO INCAPACITATED INDIVIDUALS
+TITLE XIII. ACTIONS FOR SUPPORT FROM RESPONSIBLE RELATIVES
+TITLE XIV. DISTRICT OF COLUMBIA CLAIMS OF SUPPORT FROM ESTATES AND FUNERAL EXPENSES
+TITLE XV. ASSIGNMENT OF PUBLIC ASSISTANCE NOT ALLOWED
+TITLE XVI. RECORD KEEPING REQUIREMENTS
+TITLE XVII. FOSTER CARE
+TITLE XVIII. CRIMINAL PROVISIONS
+TITLE XIX. AUTHORIZATION OF APPROPRIATIONS AND EXPENDITURES
+TITLE XXI. REPEALERS; NONREVIVAL OF PREVIOUSLY REPEALED ACTS, REGULATIONS, RULES, COMMISSIONERS' ORDERS, AND COMMISSIONER'S ORDERS; NONABATEMENT OF CAUSES OF ACTION
+TITLE XXII. SEVERABILITY
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 4-101. District of Columbia Public Assistance Act of 1982.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-10-12]: D.C. Law 4-101</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-10-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-04-06</oll:dateEffective>
+    <oll:docId>D.C. Law 4-101</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71001">
+    <oll:cite xml:lang="en">§ 1001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71002">
+    <oll:cite xml:lang="en">§ 1002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71003">
+    <oll:cite xml:lang="en">§ 1003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71004">
+    <oll:cite xml:lang="en">§ 1004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71005">
+    <oll:cite xml:lang="en">§ 1005</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1005|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71006">
+    <oll:cite xml:lang="en">§ 1006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71007">
+    <oll:cite xml:lang="en">§ 1007</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1007|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1007</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71008">
+    <oll:cite xml:lang="en">§ 1008</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1008|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1008</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71009">
+    <oll:cite xml:lang="en">§ 1009</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1009|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1009</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7101">
+    <oll:cite xml:lang="en">§ 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|I|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71010">
+    <oll:cite xml:lang="en">§ 1010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71011">
+    <oll:cite xml:lang="en">§ 1011</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1011|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1011</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71012">
+    <oll:cite xml:lang="en">§ 1012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71013">
+    <oll:cite xml:lang="en">§ 1013</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1013|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1013</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71014">
+    <oll:cite xml:lang="en">§ 1014</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1014|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1014</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71015">
+    <oll:cite xml:lang="en">§ 1015</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1015|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1015</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71016">
+    <oll:cite xml:lang="en">§ 1016</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1016|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1016</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71017">
+    <oll:cite xml:lang="en">§ 1017</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1017|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1017</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71018">
+    <oll:cite xml:lang="en">§ 1018</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1018|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1018</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71019">
+    <oll:cite xml:lang="en">§ 1019</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|1019|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1019</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71101">
+    <oll:cite xml:lang="en">§ 1101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71102">
+    <oll:cite xml:lang="en">§ 1102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71103">
+    <oll:cite xml:lang="en">§ 1103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71104">
+    <oll:cite xml:lang="en">§ 1104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71105">
+    <oll:cite xml:lang="en">§ 1105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71106">
+    <oll:cite xml:lang="en">§ 1106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|1106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71201">
+    <oll:cite xml:lang="en">§ 1201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XII|1201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71202">
+    <oll:cite xml:lang="en">§ 1202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XII|1202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71203">
+    <oll:cite xml:lang="en">§ 1203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XII|1203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71301">
+    <oll:cite xml:lang="en">§ 1301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71302">
+    <oll:cite xml:lang="en">§ 1302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71303">
+    <oll:cite xml:lang="en">§ 1303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71304">
+    <oll:cite xml:lang="en">§ 1304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71305">
+    <oll:cite xml:lang="en">§ 1305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71306">
+    <oll:cite xml:lang="en">§ 1306</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|1306|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1306</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71401">
+    <oll:cite xml:lang="en">§ 1401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIV|1401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71402">
+    <oll:cite xml:lang="en">§ 1402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIV|1402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71403">
+    <oll:cite xml:lang="en">§ 1403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIV|1403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71404">
+    <oll:cite xml:lang="en">§ 1404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIV|1404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71501">
+    <oll:cite xml:lang="en">§ 1501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XV|1501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71601">
+    <oll:cite xml:lang="en">§ 1601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVI|1601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71701">
+    <oll:cite xml:lang="en">§ 1701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71702">
+    <oll:cite xml:lang="en">§ 1702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71703">
+    <oll:cite xml:lang="en">§ 1703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71704">
+    <oll:cite xml:lang="en">§ 1704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71705">
+    <oll:cite xml:lang="en">§ 1705</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1705|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1705</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71706">
+    <oll:cite xml:lang="en">§ 1706</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1706|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1706</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71707">
+    <oll:cite xml:lang="en">§ 1707</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1707|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1707</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71708">
+    <oll:cite xml:lang="en">§ 1708</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1708|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1708</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71709">
+    <oll:cite xml:lang="en">§ 1709</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1709|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1709</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71710">
+    <oll:cite xml:lang="en">§ 1710</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1710|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1710</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71711">
+    <oll:cite xml:lang="en">§ 1711</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|1711|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1711</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71801">
+    <oll:cite xml:lang="en">§ 1801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71802">
+    <oll:cite xml:lang="en">§ 1802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71803">
+    <oll:cite xml:lang="en">§ 1803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71804">
+    <oll:cite xml:lang="en">§ 1804</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1804|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1804</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71805">
+    <oll:cite xml:lang="en">§ 1805</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1805|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1805</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71806">
+    <oll:cite xml:lang="en">§ 1806</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|1806|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1806</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71901">
+    <oll:cite xml:lang="en">§ 1901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIX|1901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71902">
+    <oll:cite xml:lang="en">§ 1902</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIX|1902|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§1902</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7201a">
+    <oll:cite xml:lang="en">§ 201a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|201a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§201a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7203">
+    <oll:cite xml:lang="en">§ 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7204">
+    <oll:cite xml:lang="en">§ 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7205">
+    <oll:cite xml:lang="en">§ 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72102">
+    <oll:cite xml:lang="en">§ 2102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXI|2102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§2102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72103">
+    <oll:cite xml:lang="en">§ 2103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXI|2103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§2103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72104">
+    <oll:cite xml:lang="en">§ 2104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXI|2104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§2104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72201">
+    <oll:cite xml:lang="en">§ 2201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXII|2201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§2201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7303">
+    <oll:cite xml:lang="en">§ 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|III|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7304">
+    <oll:cite xml:lang="en">§ 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|III|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7401">
+    <oll:cite xml:lang="en">§ 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7402">
+    <oll:cite xml:lang="en">§ 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7403">
+    <oll:cite xml:lang="en">§ 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7404">
+    <oll:cite xml:lang="en">§ 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7405">
+    <oll:cite xml:lang="en">§ 405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7405a">
+    <oll:cite xml:lang="en">§ 405a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|405a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§405a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7406">
+    <oll:cite xml:lang="en">§ 406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7407">
+    <oll:cite xml:lang="en">§ 407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7408">
+    <oll:cite xml:lang="en">§ 408</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|408|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§408</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7409">
+    <oll:cite xml:lang="en">§ 409</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|409|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§409</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7501">
+    <oll:cite xml:lang="en">§ 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7502">
+    <oll:cite xml:lang="en">§ 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7503">
+    <oll:cite xml:lang="en">§ 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7504">
+    <oll:cite xml:lang="en">§ 504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7505">
+    <oll:cite xml:lang="en">§ 505</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|505|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§505</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7505a">
+    <oll:cite xml:lang="en">§ 505a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|505a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§505a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7506">
+    <oll:cite xml:lang="en">§ 506</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|506|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§506</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7507">
+    <oll:cite xml:lang="en">§ 507</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|507|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§507</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7508">
+    <oll:cite xml:lang="en">§ 508</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|508|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§508</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7509">
+    <oll:cite xml:lang="en">§ 509</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|509|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§509</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7510">
+    <oll:cite xml:lang="en">§ 510</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|510|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§510</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511">
+    <oll:cite xml:lang="en">§ 511</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|511|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§511</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511a">
+    <oll:cite xml:lang="en">§ 511a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|511a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§511a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511b">
+    <oll:cite xml:lang="en">§ 511b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|511b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§511b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511c">
+    <oll:cite xml:lang="en">§ 511c</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|511c|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§511c</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7512">
+    <oll:cite xml:lang="en">§ 512</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|512|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§512</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7513a">
+    <oll:cite xml:lang="en">§ 513a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|513a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§513a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7514">
+    <oll:cite xml:lang="en">§ 514</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|514|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§514</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7515">
+    <oll:cite xml:lang="en">§ 515</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|515|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§515</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7516">
+    <oll:cite xml:lang="en">§ 516</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|516|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§516</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7517">
+    <oll:cite xml:lang="en">§ 517</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|517|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§517</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7518">
+    <oll:cite xml:lang="en">§ 518</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|518|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§518</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519">
+    <oll:cite xml:lang="en">§ 519</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519a">
+    <oll:cite xml:lang="en">§ 519a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519b">
+    <oll:cite xml:lang="en">§ 519b</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519b|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519b</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519c">
+    <oll:cite xml:lang="en">§ 519c</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519c|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519c</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519d">
+    <oll:cite xml:lang="en">§ 519d</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519d|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519d</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519e">
+    <oll:cite xml:lang="en">§ 519e</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519e|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519e</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519f">
+    <oll:cite xml:lang="en">§ 519f</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519f|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519f</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519g">
+    <oll:cite xml:lang="en">§ 519g</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519g|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519g</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519h">
+    <oll:cite xml:lang="en">§ 519h</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519h|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519h</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519i">
+    <oll:cite xml:lang="en">§ 519i</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519i|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519i</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519j">
+    <oll:cite xml:lang="en">§ 519j</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519j|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519j</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519k">
+    <oll:cite xml:lang="en">§ 519k</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519k|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519k</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519l">
+    <oll:cite xml:lang="en">§ 519l</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519l|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519l</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519m">
+    <oll:cite xml:lang="en">§ 519m</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519m|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519m</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519n">
+    <oll:cite xml:lang="en">§ 519n</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|519n|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§519n</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7520">
+    <oll:cite xml:lang="en">§ 520</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|520|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§520</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7521">
+    <oll:cite xml:lang="en">§ 521</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|521|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§521</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7522">
+    <oll:cite xml:lang="en">§ 522</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|522|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§522</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7523">
+    <oll:cite xml:lang="en">§ 523</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|523|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§523</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7524">
+    <oll:cite xml:lang="en">§ 524</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|524|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§524</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7525">
+    <oll:cite xml:lang="en">§ 525</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|525|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§525</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7526">
+    <oll:cite xml:lang="en">§ 526</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|526|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§526</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7527">
+    <oll:cite xml:lang="en">§ 527</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|527|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§527</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7528">
+    <oll:cite xml:lang="en">§ 528</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|528|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§528</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7529">
+    <oll:cite xml:lang="en">§ 529</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|529|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§529</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7530">
+    <oll:cite xml:lang="en">§ 530</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|530|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§530</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7531">
+    <oll:cite xml:lang="en">§ 531</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|531|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§531</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7532">
+    <oll:cite xml:lang="en">§ 532</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|532|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§532</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7533">
+    <oll:cite xml:lang="en">§ 533</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|533|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§533</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7534">
+    <oll:cite xml:lang="en">§ 534</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|534|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§534</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7535">
+    <oll:cite xml:lang="en">§ 535</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|535|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§535</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7536">
+    <oll:cite xml:lang="en">§ 536</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|536|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§536</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7537">
+    <oll:cite xml:lang="en">§ 537</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|537|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§537</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7538">
+    <oll:cite xml:lang="en">§ 538</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|538|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§538</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7539">
+    <oll:cite xml:lang="en">§ 539</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|539|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§539</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7540">
+    <oll:cite xml:lang="en">§ 540</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|540|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§540</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7541">
+    <oll:cite xml:lang="en">§ 541</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|541|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§541</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7542">
+    <oll:cite xml:lang="en">§ 542</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|542|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§542</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7542a">
+    <oll:cite xml:lang="en">§ 542a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|542a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§542a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7543">
+    <oll:cite xml:lang="en">§ 543</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|543|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§543</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7544">
+    <oll:cite xml:lang="en">§ 544</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|544|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§544</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7545">
+    <oll:cite xml:lang="en">§ 545</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|545|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§545</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7546">
+    <oll:cite xml:lang="en">§ 546</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|546|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§546</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7547">
+    <oll:cite xml:lang="en">§ 547</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|547|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§547</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7548">
+    <oll:cite xml:lang="en">§ 548</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|548|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§548</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7549">
+    <oll:cite xml:lang="en">§ 549</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|549|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§549</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7550">
+    <oll:cite xml:lang="en">§ 550</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|550|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§550</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7551">
+    <oll:cite xml:lang="en">§ 551</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|551|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§551</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7551a">
+    <oll:cite xml:lang="en">§ 551a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|551a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§551a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7552">
+    <oll:cite xml:lang="en">§ 552</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|552|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§552</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7553">
+    <oll:cite xml:lang="en">§ 553</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|553|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§553</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7554">
+    <oll:cite xml:lang="en">§ 554</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|554|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§554</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7555">
+    <oll:cite xml:lang="en">§ 555</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|555|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§555</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7556">
+    <oll:cite xml:lang="en">§ 556</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|556|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§556</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7557">
+    <oll:cite xml:lang="en">§ 557</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|557|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§557</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7558">
+    <oll:cite xml:lang="en">§ 558</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|558|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§558</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7559">
+    <oll:cite xml:lang="en">§ 559</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|559|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§559</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7561">
+    <oll:cite xml:lang="en">§ 561</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|561|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§561</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7562">
+    <oll:cite xml:lang="en">§ 562</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|562|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§562</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7563">
+    <oll:cite xml:lang="en">§ 563</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|563|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§563</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7564">
+    <oll:cite xml:lang="en">§ 564</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|564|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§564</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7565">
+    <oll:cite xml:lang="en">§ 565</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|565|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§565</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7566">
+    <oll:cite xml:lang="en">§ 566</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|566|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§566</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7567">
+    <oll:cite xml:lang="en">§ 567</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|567|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§567</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7568">
+    <oll:cite xml:lang="en">§ 568</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|568|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§568</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7569">
+    <oll:cite xml:lang="en">§ 569</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|569|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§569</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7570">
+    <oll:cite xml:lang="en">§ 570</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|570|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§570</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7571">
+    <oll:cite xml:lang="en">§ 571</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|571|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§571</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7572">
+    <oll:cite xml:lang="en">§ 572</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|572|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§572</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7572a">
+    <oll:cite xml:lang="en">§ 572a</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|572a|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§572a</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7573">
+    <oll:cite xml:lang="en">§ 573</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|573|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§573</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7574">
+    <oll:cite xml:lang="en">§ 574</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|574|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§574</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7575">
+    <oll:cite xml:lang="en">§ 575</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|575|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§575</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7576">
+    <oll:cite xml:lang="en">§ 576</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|576|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§576</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7577">
+    <oll:cite xml:lang="en">§ 577</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|577|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§577</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7578">
+    <oll:cite xml:lang="en">§ 578</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|578|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§578</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7579">
+    <oll:cite xml:lang="en">§ 579</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|579|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§579</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7580">
+    <oll:cite xml:lang="en">§ 580</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|580|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§580</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7581">
+    <oll:cite xml:lang="en">§ 581</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|581|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§581</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7582">
+    <oll:cite xml:lang="en">§ 582</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|582|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§582</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7601">
+    <oll:cite xml:lang="en">§ 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7602">
+    <oll:cite xml:lang="en">§ 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7603">
+    <oll:cite xml:lang="en">§ 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7604">
+    <oll:cite xml:lang="en">§ 604</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|604|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§604</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7605">
+    <oll:cite xml:lang="en">§ 605</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|605|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§605</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7701">
+    <oll:cite xml:lang="en">§ 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VII|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7702">
+    <oll:cite xml:lang="en">§ 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VII|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7703">
+    <oll:cite xml:lang="en">§ 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VII|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7704">
+    <oll:cite xml:lang="en">§ 704</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VII|704|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§704</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7801">
+    <oll:cite xml:lang="en">§ 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7802">
+    <oll:cite xml:lang="en">§ 802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7803">
+    <oll:cite xml:lang="en">§ 803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7804">
+    <oll:cite xml:lang="en">§ 804</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|804|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§804</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7805">
+    <oll:cite xml:lang="en">§ 805</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|805|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§805</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7901">
+    <oll:cite xml:lang="en">§ 901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IX|901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7902">
+    <oll:cite xml:lang="en">§ 902</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IX|902|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§902</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7903">
+    <oll:cite xml:lang="en">§ 903</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IX|903|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§903</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7904">
+    <oll:cite xml:lang="en">§ 904</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IX|904|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#§904</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/I">
+    <oll:cite xml:lang="en">title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/II">
+    <oll:cite xml:lang="en">title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/III">
+    <oll:cite xml:lang="en">title III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/IV">
+    <oll:cite xml:lang="en">title IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/IX">
+    <oll:cite xml:lang="en">title IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/V">
+    <oll:cite xml:lang="en">title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VI">
+    <oll:cite xml:lang="en">title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VII">
+    <oll:cite xml:lang="en">title VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VIII">
+    <oll:cite xml:lang="en">title VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/X">
+    <oll:cite xml:lang="en">title X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XI">
+    <oll:cite xml:lang="en">title XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XII">
+    <oll:cite xml:lang="en">title XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIII">
+    <oll:cite xml:lang="en">title XIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIV">
+    <oll:cite xml:lang="en">title XIV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XIV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIX">
+    <oll:cite xml:lang="en">title XIX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XIX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XIX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XV">
+    <oll:cite xml:lang="en">title XV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVI">
+    <oll:cite xml:lang="en">title XVI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XVI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVII">
+    <oll:cite xml:lang="en">title XVII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XVII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVIII">
+    <oll:cite xml:lang="en">title XVIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XVIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XVIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XXI">
+    <oll:cite xml:lang="en">title XXI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XXI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XXII">
+    <oll:cite xml:lang="en">title XXII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 4-101|XXII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/4-101#/titles/XXII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101/_changes">
+    <rdf:_100 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7404"/>
+    <rdf:_101 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7405"/>
+    <rdf:_102 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7405a"/>
+    <rdf:_103 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7406"/>
+    <rdf:_104 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7407"/>
+    <rdf:_105 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7408"/>
+    <rdf:_106 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7409"/>
+    <rdf:_107 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7501"/>
+    <rdf:_108 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7502"/>
+    <rdf:_109 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7503"/>
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VIII"/>
+    <rdf:_110 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7504"/>
+    <rdf:_111 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7505"/>
+    <rdf:_112 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7505a"/>
+    <rdf:_113 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7506"/>
+    <rdf:_114 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7507"/>
+    <rdf:_115 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7508"/>
+    <rdf:_116 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7509"/>
+    <rdf:_117 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7510"/>
+    <rdf:_118 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511"/>
+    <rdf:_119 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511a"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/X"/>
+    <rdf:_120 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511b"/>
+    <rdf:_121 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7511c"/>
+    <rdf:_122 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7512"/>
+    <rdf:_123 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7513a"/>
+    <rdf:_124 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7514"/>
+    <rdf:_125 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7515"/>
+    <rdf:_126 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7516"/>
+    <rdf:_127 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7517"/>
+    <rdf:_128 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7518"/>
+    <rdf:_129 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XI"/>
+    <rdf:_130 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519a"/>
+    <rdf:_131 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519b"/>
+    <rdf:_132 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519c"/>
+    <rdf:_133 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519d"/>
+    <rdf:_134 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519e"/>
+    <rdf:_135 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519f"/>
+    <rdf:_136 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519g"/>
+    <rdf:_137 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519h"/>
+    <rdf:_138 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519i"/>
+    <rdf:_139 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519j"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XII"/>
+    <rdf:_140 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519k"/>
+    <rdf:_141 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519l"/>
+    <rdf:_142 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519m"/>
+    <rdf:_143 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7519n"/>
+    <rdf:_144 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7520"/>
+    <rdf:_145 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7521"/>
+    <rdf:_146 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7522"/>
+    <rdf:_147 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7523"/>
+    <rdf:_148 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7524"/>
+    <rdf:_149 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7525"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIII"/>
+    <rdf:_150 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7526"/>
+    <rdf:_151 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7527"/>
+    <rdf:_152 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7528"/>
+    <rdf:_153 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7529"/>
+    <rdf:_154 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7530"/>
+    <rdf:_155 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7531"/>
+    <rdf:_156 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7532"/>
+    <rdf:_157 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7533"/>
+    <rdf:_158 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7534"/>
+    <rdf:_159 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7535"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIV"/>
+    <rdf:_160 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7536"/>
+    <rdf:_161 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7537"/>
+    <rdf:_162 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7538"/>
+    <rdf:_163 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7539"/>
+    <rdf:_164 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7540"/>
+    <rdf:_165 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7541"/>
+    <rdf:_166 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7542"/>
+    <rdf:_167 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7542a"/>
+    <rdf:_168 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7543"/>
+    <rdf:_169 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7544"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XIX"/>
+    <rdf:_170 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7545"/>
+    <rdf:_171 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7546"/>
+    <rdf:_172 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7547"/>
+    <rdf:_173 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7548"/>
+    <rdf:_174 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7549"/>
+    <rdf:_175 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7550"/>
+    <rdf:_176 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7551"/>
+    <rdf:_177 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7551a"/>
+    <rdf:_178 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7552"/>
+    <rdf:_179 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7553"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XV"/>
+    <rdf:_180 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7554"/>
+    <rdf:_181 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7555"/>
+    <rdf:_182 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7556"/>
+    <rdf:_183 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7557"/>
+    <rdf:_184 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7558"/>
+    <rdf:_185 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7559"/>
+    <rdf:_186 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7561"/>
+    <rdf:_187 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7562"/>
+    <rdf:_188 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7563"/>
+    <rdf:_189 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7564"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVI"/>
+    <rdf:_190 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7565"/>
+    <rdf:_191 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7566"/>
+    <rdf:_192 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7567"/>
+    <rdf:_193 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7568"/>
+    <rdf:_194 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7569"/>
+    <rdf:_195 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7570"/>
+    <rdf:_196 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7571"/>
+    <rdf:_197 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7572"/>
+    <rdf:_198 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7572a"/>
+    <rdf:_199 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7573"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVII"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101"/>
+    <rdf:_200 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7574"/>
+    <rdf:_201 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7575"/>
+    <rdf:_202 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7576"/>
+    <rdf:_203 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7577"/>
+    <rdf:_204 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7578"/>
+    <rdf:_205 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7579"/>
+    <rdf:_206 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7580"/>
+    <rdf:_207 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7581"/>
+    <rdf:_208 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7582"/>
+    <rdf:_209 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7601"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XVIII"/>
+    <rdf:_210 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7602"/>
+    <rdf:_211 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7603"/>
+    <rdf:_212 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7604"/>
+    <rdf:_213 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7605"/>
+    <rdf:_214 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7701"/>
+    <rdf:_215 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7702"/>
+    <rdf:_216 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7703"/>
+    <rdf:_217 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7704"/>
+    <rdf:_218 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7801"/>
+    <rdf:_219 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7802"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XXI"/>
+    <rdf:_220 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7803"/>
+    <rdf:_221 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7804"/>
+    <rdf:_222 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7805"/>
+    <rdf:_223 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7901"/>
+    <rdf:_224 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7902"/>
+    <rdf:_225 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7903"/>
+    <rdf:_226 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7904"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/XXII"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71001"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71002"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71003"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71004"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71005"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71006"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71007"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/I"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71008"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71009"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7101"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71010"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71011"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71012"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71013"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71014"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71015"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71016"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/II"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71017"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71018"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71019"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71101"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71102"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71103"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71104"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71105"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71106"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71201"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/III"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71202"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71203"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71301"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71302"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71303"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71304"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71305"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71306"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71401"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71402"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/IV"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71403"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71404"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71501"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71601"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71701"/>
+    <rdf:_65 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71702"/>
+    <rdf:_66 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71703"/>
+    <rdf:_67 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71704"/>
+    <rdf:_68 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71705"/>
+    <rdf:_69 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71706"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/IX"/>
+    <rdf:_70 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71707"/>
+    <rdf:_71 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71708"/>
+    <rdf:_72 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71709"/>
+    <rdf:_73 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71710"/>
+    <rdf:_74 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71711"/>
+    <rdf:_75 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71801"/>
+    <rdf:_76 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71802"/>
+    <rdf:_77 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71803"/>
+    <rdf:_78 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71804"/>
+    <rdf:_79 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71805"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/V"/>
+    <rdf:_80 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71806"/>
+    <rdf:_81 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71901"/>
+    <rdf:_82 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A71902"/>
+    <rdf:_83 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7201"/>
+    <rdf:_84 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7201a"/>
+    <rdf:_85 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7202"/>
+    <rdf:_86 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7203"/>
+    <rdf:_87 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7204"/>
+    <rdf:_88 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7205"/>
+    <rdf:_89 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72102"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VI"/>
+    <rdf:_90 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72103"/>
+    <rdf:_91 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72104"/>
+    <rdf:_92 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A72201"/>
+    <rdf:_93 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7301"/>
+    <rdf:_94 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7302"/>
+    <rdf:_95 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7303"/>
+    <rdf:_96 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7304"/>
+    <rdf:_97 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7401"/>
+    <rdf:_98 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7402"/>
+    <rdf:_99 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#%C2%A7403"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/4-101#/titles/VII"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
