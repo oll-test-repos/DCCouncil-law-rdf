@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/dclaws/22/budget">
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/dclaws/22/budget"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">Budget Legislation</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/dclaws/22/budget/_changes"/>
+    <oll:hasElements rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/dclaws/22/budget/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:libraryMaterializedPath xml:lang="en">DCCouncil/law-rdf|dclaws|22|budget|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">budget</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/dclaws/22/budget</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/dclaws/22/budget/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/22-394"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/22-423"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/22-457"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/22-96"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/acts/22-98"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-15"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-158"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-16"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/dc/council/laws/22-169"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/dclaws/22/budget/_elements">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/22-98"/>
+    <rdf:_1 xml:lang="en">Budget Legislation</rdf:_1>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/22-457"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/us/dc/council/laws/22-169"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/us/dc/council/laws/22-158"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/us/dc/council/laws/22-16"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/us/dc/council/laws/22-15"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/22-423"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/22-394"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/22-96"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>

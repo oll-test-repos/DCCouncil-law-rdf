@@ -1,0 +1,136 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1. Government Organization.(§§ 1-101 – 1-1518.01)
+Title 2. Government Administration.(§§ 2-101 – 2-1937)
+Title 3. District of Columbia Boards and Commissions.(§§ 3-001 – 3-3721)
+Title 4. Public Care Systems.(§§ 4-101 – 4-2006)
+Title 5. Police, Firefighters, Medical Examiner, and Forensic Sciences.(§§ 5-101.01 – 5-1501.16)
+Title 6. Housing and Building Restrictions and Regulations.(§§ 6-101.01 – 6-1506)
+Title 7. Human Health Care and Safety.(§§ 7-101 – 7-3205)
+Title 8. Environmental and Animal Control and Protection.(§§ 8-101.01 – 8-2231.12)
+Title 9. Transportation Systems.(§§ 9-101.01 – 9-1219.41)
+Title 10. Parks, Public Buildings, Grounds, and Space.(§§ 10-101 – 10-1906)
+Title 11. Organization and Jurisdiction of the Courts. [Enacted title](§§ 11-101 – 11-2609)
+Title 12. Right to Remedy. [Enacted title](§§ 12-101 – 12-311)
+Title 13. Procedure Generally. [Enacted title](§§ 13-101 – 13-702)
+Title 14. Proof. [Enacted title](§§ 14-101 – 14-702)
+Title 15. Judgments and Executions; Fees and Costs. [Enacted title](§§ 15-101 – 15-914)
+Title 16. Particular Actions, Proceedings and Matters. [Enacted title](§§ 16-101 – 16-5505)
+Title 17. Review. [Enacted title](§§ 17-101 – 17-307)
+Title 18. Wills. [Enacted title](§§ 18-101 – 18-710)
+Title 19. Descent, Distribution, and Trusts. [Enacted title](§§ 19-101 – 19-1518)
+Title 20. Probate and Administration of Decedents’ Estates. [Enacted title](§§ 20-101 – 20-1305)
+Title 21. Fiduciary Relations and Persons with Mental Illness. [Enacted title](§§ 21-101 – 21-2518)
+Title 22. Criminal Offenses and Penalties.(§§ 22-101 – 22-5215)
+Title 23. Criminal Procedure. [Enacted title](§§ 23-101 – 23-1911)
+Title 24. Prisoners and Their Treatment.(§§ 24-101 – 24-1401)
+Title 25. Alcoholic Beverages. [Enacted title](§§ 25-101 – 25-1009)
+Title 26. Banks and Other Financial Institutions.(§§ 26-101 – 26-1401.31)
+Title 27. Civil Recovery by Merchants, Contractors, and Subcontractors.(§§ 27-101 – 27-136)
+Title 28. Commercial Instruments and Transactions. [Enacted title](§§ 28:1-101 – 28-5404)
+Title 28A. Other Consumer Protections.(§§ 28A-101 – 28A-221)
+Title 29. Business Organizations. [Enacted title](§§ 29-101.01 – 29-1304.01)
+Title 29A. Corporations. [Repealed].(§§ 29A-101.01 – 29A-1128)
+Title 30. Hotels, Lodging Houses, and Short-term Rentals.(§§ 30-101 – 30-210.01)
+Title 31. Insurance and Securities.(§§ 31-101 – 31-6209)
+Title 32. Labor.(§§ 32-101 – 32-1686)
+Title 33. Partnerships. [Repealed].(§§ 33-101.01 – 33-529)
+Title 34. Public Utilities.(§§ 34-101 – 34-2711)
+Title 35. Railroads and Other Carriers.(§§ 35-101 – 35-408)
+Title 36. Trade Practices.(§§ 36-101 – 36-641.21)
+Title 37. Weights, Measures, Markets, and Vending.(§§ 37-101 – 37-205.02)
+Title 38. Educational Institutions.(§§ 38-101 – 38-3401)
+Title 39. Libraries and Cultural Institutions.(§§ 39-101 – 39-405)
+Title 40. Liens.(§§ 40-101 – 40-405)
+Title 41. Personal Property.(§§ 41-101 – 41-315)
+Title 42. Real Property.(§§ 42-101 – 42-4097)
+Title 43. Cemeteries and Crematories.(§§ 43-101 – 43-131)
+Title 44. Charitable and Curative Institutions.(§§ 44-101.01 – 44-2114)
+Title 45. Compilation and Construction of Code.(§§ 45-101 – 45-607)
+Title 46. Domestic Relations.(§§ 46-101 – 46-726)
+Title 47. Taxation, Licensing, Permits, Assessments, and Fees. [Enacted title](§§ 47-101 – 47-5109)
+Title 48. Foods and Drugs.(§§ 48-101 – 48-1213)
+Title 49. Military.(§§ 49-101 – 49-1101.20)
+Title 50. Motor and Non-Motor Vehicles and Traffic.(§§ 50-101 – 50-2708)
+Title 51. Social Security.(§§ 51-101 – 51-181)
+Title 99. Reserved sections.(§§ 1-328.14(Perm) – 1-615.03a(Perm))
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of the District of Columbia</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-12-01/2021-11-17]: D.C. Code</rdfs:label>
+    <oll:codifiedDate>2021-11-17</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-23</oll:dateCurrentThrough>
+    <oll:docId>D.C. Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/congress/laws/public/116-283"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/acts/24-163"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/laws/24-19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/23-525"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/23-526"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-1140"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-1151"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-337.01"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-351.01"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-361.01"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/23-525">
+    <oll:cite xml:lang="en">§ 23-525</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|23|5|II|23-525|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/23-525</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/23-526">
+    <oll:cite xml:lang="en">§ 23-526</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|23|5|II|23-526|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/23-526</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-1140">
+    <oll:cite xml:lang="en">§ 5-1140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|5|11|II|5-1140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/5-1140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-1151">
+    <oll:cite xml:lang="en">§ 5-1151</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|5|11A|5-1151|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/5-1151</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-337.01">
+    <oll:cite xml:lang="en">§ 5-337.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|5|3A|IV|5-337.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/5-337.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-351.01">
+    <oll:cite xml:lang="en">§ 5-351.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|5|3B|5-351.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/5-351.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-11-17/us/dc/council/code/sections/5-361.01">
+    <oll:cite xml:lang="en">§ 5-361.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|5|3C|5-361.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/5-361.01</oll:url>
+  </rdf:Description>
+</rdf:RDF>

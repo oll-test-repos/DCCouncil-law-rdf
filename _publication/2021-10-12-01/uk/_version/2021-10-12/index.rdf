@@ -1,0 +1,54 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk">
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/uk"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">Laws of the United Kingdom Codified in the D.C. Code</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/_changes"/>
+    <oll:hasElements rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:libraryMaterializedPath xml:lang="en">DCCouncil/law-rdf|uk|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">uk</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/uk</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/52-Hen-3/chapters/23"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/6-Edw-1/chapters/5"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/7-Anne/chapters/19"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/7-Geo-2/chapters/20"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/8-Anne/chapters/14"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/9-Anne/chapters/14"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/11-Geo-2/chapters/19"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/11-Geo-3/chapters/20"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/11-Hen-6/chapters/5"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/27-Hen-8/chapters/10"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/29-Geo-2/chapters/31"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/4-5-W-M/chapters/16"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/4-Anne/chapters/16"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/4-Geo-2/chapters/10"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/parliament/sessions/4-Geo-2/chapters/28"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/uk/_elements">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/8-Anne/chapters/14"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/7-Anne/chapters/19"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/4-Anne/chapters/16"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/4-5-W-M/chapters/16"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/27-Hen-8/chapters/10"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/11-Hen-6/chapters/5"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/6-Edw-1/chapters/5"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/52-Hen-3/chapters/23"/>
+    <rdf:_1 xml:lang="en">Laws of the United Kingdom Codified in the D.C. Code</rdf:_1>
+    <rdf:_2 xml:lang="en">U.K. Laws</rdf:_2>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/29-Geo-2/chapters/31"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/11-Geo-3/chapters/20"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/11-Geo-2/chapters/19"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/7-Geo-2/chapters/20"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/4-Geo-2/chapters/28"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/4-Geo-2/chapters/10"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/uk/parliament/sessions/9-Anne/chapters/14"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>

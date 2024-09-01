@@ -1,0 +1,7 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/us/dc/council/acts/23-68">
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/us/dc/council/acts/23-68"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Document"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+  </rdf:Description>
+</rdf:RDF>

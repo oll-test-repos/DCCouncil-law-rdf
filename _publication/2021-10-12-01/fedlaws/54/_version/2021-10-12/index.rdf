@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/fedlaws/54">
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/fedlaws/54"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">The 54th Congress</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-12</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/fedlaws/54/_changes"/>
+    <oll:hasElements rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/fedlaws/54/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01"/>
+    <oll:libraryMaterializedPath xml:lang="en">DCCouncil/law-rdf|fedlaws|54|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">54</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/fedlaws/54</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/fedlaws/54/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-2-ch94"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch154"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch206"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch315"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch373"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch395"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-1-ch419"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-2-ch364"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-2-ch375"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/us/congress/laws/public/54-2-ch387"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-12-01/_date/2021-10-12/fedlaws/54/_elements">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch315"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch206"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch154"/>
+    <rdf:_1 xml:lang="en">The 54th Congress</rdf:_1>
+    <rdf:_2 xml:lang="en">Public Laws</rdf:_2>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-2-ch387"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-2-ch375"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-2-ch364"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-2-ch94"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch419"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch395"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/us/congress/laws/public/54-1-ch373"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
