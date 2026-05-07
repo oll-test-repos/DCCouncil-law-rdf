@@ -1,0 +1,64 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/dclaws/24/permanent/pending">
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/dclaws/24/permanent/pending"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">Acts pending congressional review</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-13</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/dclaws/24/permanent/pending/_changes"/>
+    <oll:hasElements rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/dclaws/24/permanent/pending/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+    <oll:libraryMaterializedPath xml:lang="en">DCCouncil/law-rdf|dclaws|24|permanent|pending|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">pending</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/dclaws/24/permanent/pending</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/dclaws/24/permanent/pending/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-690"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-681"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-682"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-683"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-684"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-685"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-686"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-687"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-688"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/us/dc/council/acts/24-689"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2023-02-13/dclaws/24/permanent/pending/_elements">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-683"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-682"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-681"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-680"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-661"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-660"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-659"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-658"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-657"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-655"/>
+    <rdf:_1 xml:lang="en">Acts pending congressional review</rdf:_1>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-654"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-649"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-648"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-647"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-646"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-645"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-644"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-643"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-642"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-641"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-578"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-639"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-638"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-637"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-690"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-689"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-688"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-687"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-686"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-685"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/us/dc/council/acts/24-684"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>

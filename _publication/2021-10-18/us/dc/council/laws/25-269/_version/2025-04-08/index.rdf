@@ -9,7 +9,21 @@
     <dcterms:title xml:lang="en">D.C. Law 25-269. Uniform Commercial Real Estate Receivership Act of 2024.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2021-10-18/2025-04-08]: D.C. Law 25-269</rdfs:label>
+    <oll:codifiedDate>2025-04-08</oll:codifiedDate>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-07</oll:dateEffective>
+    <oll:docId>D.C. Law 25-269</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-04-08/us/dc/council/laws/25-269/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-04-08/us/dc/council/laws/25-269#%C2%A721">
+    <oll:cite xml:lang="en">§ 21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-269|21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-269#§21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-04-08/us/dc/council/laws/25-269/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-04-08/us/dc/council/laws/25-269#%C2%A721"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

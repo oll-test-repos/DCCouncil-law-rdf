@@ -1,0 +1,99 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/33303/Signed_Act/B21-0046-SignedAct.pdf?Id=105413"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/21-7"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. – THE NEW COLUMBIA STATEHOOD INITIATIVE
+TITLE II -- OMNIBUS BOARDS AND COMMISSIONS REFORM
+TITLE III. TECHNICAL, CONFORMING, AND OTHER AMENDMENTS
+TITLE IV. – MAYOR AND ATTORNEY GENERAL TRANSITION
+TITLE V. – APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 21-7. New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2026-01-24]: D.C. Act 21-7</rdfs:label>
+    <oll:codifiedDate>2026-01-24</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-27</oll:dateEffective>
+    <oll:docId>D.C. Act 21-7</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/1">
+    <oll:cite xml:lang="en">part 1 of subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/2">
+    <oll:cite xml:lang="en">part 2 of subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/3">
+    <oll:cite xml:lang="en">part 3 of subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/4">
+    <oll:cite xml:lang="en">part 4 of subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/5">
+    <oll:cite xml:lang="en">part 5 of subtitle A of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|A|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/B">
+    <oll:cite xml:lang="en">subtitle B of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/C">
+    <oll:cite xml:lang="en">subtitle C of  </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 21-7|title-ii-omnibus-boards-and-commissions-reform|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/1"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/2"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/3"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/4"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/A/parts/5"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/B"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-01-24/us/dc/council/acts/21-7#/title-ii-omnibus-boards-and-commissions-reform/subtitles/C"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

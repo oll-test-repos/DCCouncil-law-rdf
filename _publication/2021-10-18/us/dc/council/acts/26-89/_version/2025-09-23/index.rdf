@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/57803/Signed_Act/B26-0270-Signed_Act.pdf?Id=215772"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/26-89"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">D.C. Act 26-89. District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2025.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2025-09-23]: D.C. Act 26-89</rdfs:label>
+    <oll:codifiedDate>2025-09-23</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-25</oll:dateEffective>
+    <oll:docId>D.C. Act 26-89</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89#%C2%A75">
+    <oll:cite xml:lang="en">§ 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-89|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-89#§5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89#%C2%A7t">
+    <oll:cite xml:lang="en">§ t</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-89|t|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element removed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-89#§t</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89#%C2%A75"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-23/us/dc/council/acts/26-89#%C2%A7t"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

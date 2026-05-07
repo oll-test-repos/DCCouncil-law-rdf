@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-08-20/us/dc/council/laws/24-345">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/47448/Signed_Act/B24-0320-Signed_Act.pdf?Id=154135"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/24-345"/>
+    <dcterms:references rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/47448/Signed_Act/B24-0320-Signed_Act.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. IMPROVING POLICE ACCOUNTABILITY AND TRANSPARENCY
+TITLE II. CONFORMING AMENDMENT.
+TITLE III. APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 24-345. Comprehensive Policing and Justice Reform Amendment Act of 2022.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2024-08-20]: D.C. Law 24-345</rdfs:label>
+    <oll:codifiedDate>2024-08-20</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-04-21</oll:dateEffective>
+    <oll:docId>D.C. Law 24-345</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-08-20/us/dc/council/laws/24-345/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-08-20/us/dc/council/laws/24-345#%C2%A7113">
+    <oll:cite xml:lang="en">§ 113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-345|I|I|113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-345#§113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-08-20/us/dc/council/laws/24-345/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-08-20/us/dc/council/laws/24-345#%C2%A7113"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

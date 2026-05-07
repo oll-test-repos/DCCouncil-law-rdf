@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-10-27/us/dc/council/laws/20-154">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="http://lims.dccouncil.us/Download/30953/B20-0641-SignedAct.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/20-154"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. WASTE MANAGEMENT, REDUCTION, AND RECOVERY.
+TITLE II. WASTE CONTROL AND ENFORCEMENT AMENDMENTS.
+TITLE III. REPEALERS.
+TITLE IV. APPLICABIILTY, FISCAL IMPACT, AND EFFECTIVE DATE.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 20-154. Sustainable Solid Waste Management Amendment Act of 2014.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2022-10-27]: D.C. Law 20-154</rdfs:label>
+    <oll:codifiedDate>2022-10-27</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-02-26</oll:dateEffective>
+    <oll:docId>D.C. Law 20-154</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-10-27/us/dc/council/laws/20-154/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-10-27/us/dc/council/laws/20-154#%C2%A7119">
+    <oll:cite xml:lang="en">§ 119</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 20-154|I|B|119|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/20-154#§119</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-10-27/us/dc/council/laws/20-154/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-10-27/us/dc/council/laws/20-154#%C2%A7119"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

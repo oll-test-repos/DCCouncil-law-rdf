@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "fedlaws",
+      "url": "/fedlaws",
+      "lib_mpath": "DCCouncil/law-rdf|fedlaws|",
+      "docs_changes": {},
+      "colls_changes": {
+        "119": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "119",
+      "url": "/fedlaws/119",
+      "lib_mpath": "DCCouncil/law-rdf|fedlaws|119|",
+      "docs_changes": {
+        "D.C. Law 26-13": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a738-2702",
+      "ptag": "section",
+      "cite": "\u00a7 38-2702",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/38-2702",
+      "doc_mpath": "D.C. Code|38|27|38-2702|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a738-2704",
+      "ptag": "section",
+      "cite": "\u00a7 38-2704",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/38-2704",
+      "doc_mpath": "D.C. Code|38|27|38-2704|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-13",
+      "doc_mpath": "D.C. Law 26-13|",
+      "lib_mpath": "DCCouncil/law-rdf|fedlaws|119|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-13",
+      "path": "\u00a7820",
+      "ptag": "section",
+      "cite": "\u00a7 820",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-13#\u00a7820",
+      "doc_mpath": "D.C. Law 26-13|820|",
+      "lib_mpath": "DCCouncil/law-rdf|fedlaws|119|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2021-10-18",
+  "codified_date": "2026-02-20"
+}

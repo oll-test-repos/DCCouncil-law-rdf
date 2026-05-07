@@ -1,0 +1,541 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.us/downloads/LIMS/49679/Signed_Act/B24-0845-Signed_Act.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/24-470"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. GOVERNMENT DIRECTION AND SUPPORT
+TITLE II. ECONOMIC DEVELOPMENT AND REGULATION
+TITLE III. PUBLIC SAFETY AND JUSTICE
+TITLE IV. PUBLIC EDUCATION SYSTEMS
+TITLE V. HUMAN SUPPORT SERVICES
+TITLE VI. OPERATIONS AND INFRASTRUCTURE
+TITLE VII. FINANCE AND REVENUE
+TITLE VIII. SPECIAL PURPOSE REVENUE AND DEDICATED REVENUE
+TITLE IX. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 24-470. Fiscal Year 2023 Budget Support Emergency Act of 2022.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2022-09-08]: D.C. Act 24-470</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2022-09-08</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-13</oll:dateEffective>
+    <oll:docId>D.C. Act 24-470</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71012">
+    <oll:cite xml:lang="en">§ 1012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|I|B|1012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§1012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71032">
+    <oll:cite xml:lang="en">§ 1032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|I|D|1032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§1032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71042">
+    <oll:cite xml:lang="en">§ 1042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|I|E|1042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§1042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72002">
+    <oll:cite xml:lang="en">§ 2002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|A|2002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72012">
+    <oll:cite xml:lang="en">§ 2012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|B|2012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72022">
+    <oll:cite xml:lang="en">§ 2022</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|C|2022|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2022</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72032">
+    <oll:cite xml:lang="en">§ 2032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|D|2032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72062">
+    <oll:cite xml:lang="en">§ 2062</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|G|2062|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2062</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72072">
+    <oll:cite xml:lang="en">§ 2072</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|H|2072|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2072</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72092">
+    <oll:cite xml:lang="en">§ 2092</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|J|2092|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2092</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72093">
+    <oll:cite xml:lang="en">§ 2093</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|J|2093|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2093</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72102">
+    <oll:cite xml:lang="en">§ 2102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|K|2102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72142">
+    <oll:cite xml:lang="en">§ 2142</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|O|2142|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2142</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72152">
+    <oll:cite xml:lang="en">§ 2152</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|II|P|2152|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§2152</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73002">
+    <oll:cite xml:lang="en">§ 3002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|A|3002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73012">
+    <oll:cite xml:lang="en">§ 3012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|B|3012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73022">
+    <oll:cite xml:lang="en">§ 3022</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|C|3022|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3022</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73042">
+    <oll:cite xml:lang="en">§ 3042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|E|3042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73043">
+    <oll:cite xml:lang="en">§ 3043</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|E|3043|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3043</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73052">
+    <oll:cite xml:lang="en">§ 3052</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|F|3052|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3052</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73053">
+    <oll:cite xml:lang="en">§ 3053</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|F|3053|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3053</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73072">
+    <oll:cite xml:lang="en">§ 3072</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|III|H|3072|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§3072</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74002">
+    <oll:cite xml:lang="en">§ 4002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|A|4002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74012">
+    <oll:cite xml:lang="en">§ 4012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|B|4012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74013">
+    <oll:cite xml:lang="en">§ 4013</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|B|4013|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4013</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74022">
+    <oll:cite xml:lang="en">§ 4022</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|C|4022|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4022</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74042">
+    <oll:cite xml:lang="en">§ 4042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|E|4042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74052">
+    <oll:cite xml:lang="en">§ 4052</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|F|4052|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4052</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74073">
+    <oll:cite xml:lang="en">§ 4073</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|H|4073|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4073</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74082">
+    <oll:cite xml:lang="en">§ 4082</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|I|4082|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4082</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74092">
+    <oll:cite xml:lang="en">§ 4092</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|J|4092|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4092</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74122">
+    <oll:cite xml:lang="en">§ 4122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|M|4122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74132">
+    <oll:cite xml:lang="en">§ 4132</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IV|N|4132|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§4132</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75012">
+    <oll:cite xml:lang="en">§ 5012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|B|5012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75022">
+    <oll:cite xml:lang="en">§ 5022</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|C|5022|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5022</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75032">
+    <oll:cite xml:lang="en">§ 5032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|D|5032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75042">
+    <oll:cite xml:lang="en">§ 5042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|E|5042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75043">
+    <oll:cite xml:lang="en">§ 5043</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|E|5043|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5043</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75044">
+    <oll:cite xml:lang="en">§ 5044</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|E|5044|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5044</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75063">
+    <oll:cite xml:lang="en">§ 5063</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|G|5063|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5063</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75072">
+    <oll:cite xml:lang="en">§ 5072</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|H|5072|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5072</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75102">
+    <oll:cite xml:lang="en">§ 5102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|K|5102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75112">
+    <oll:cite xml:lang="en">§ 5112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|L|5112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75132">
+    <oll:cite xml:lang="en">§ 5132</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|N|5132|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§5132</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76012">
+    <oll:cite xml:lang="en">§ 6012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|B|6012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76032">
+    <oll:cite xml:lang="en">§ 6032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|D|6032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76042">
+    <oll:cite xml:lang="en">§ 6042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|E|6042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76052">
+    <oll:cite xml:lang="en">§ 6052</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|F|6052|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6052</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76062">
+    <oll:cite xml:lang="en">§ 6062</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|G|6062|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6062</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76102">
+    <oll:cite xml:lang="en">§ 6102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|K|6102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§6102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77002">
+    <oll:cite xml:lang="en">§ 7002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|A|7002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77032">
+    <oll:cite xml:lang="en">§ 7032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|D|7032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77052">
+    <oll:cite xml:lang="en">§ 7052</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|F|7052|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7052</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77072">
+    <oll:cite xml:lang="en">§ 7072</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|H|7072|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7072</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77073">
+    <oll:cite xml:lang="en">§ 7073</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|H|7073|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7073</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77082">
+    <oll:cite xml:lang="en">§ 7082</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|I|7082|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7082</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77092">
+    <oll:cite xml:lang="en">§ 7092</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|J|7092|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7092</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77112">
+    <oll:cite xml:lang="en">§ 7112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|L|7112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77113">
+    <oll:cite xml:lang="en">§ 7113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VII|L|7113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§7113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A79003">
+    <oll:cite xml:lang="en">§ 9003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|IX|9003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#§9003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/V">
+    <oll:cite xml:lang="en">title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#/titles/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/V/subtitles/G">
+    <oll:cite xml:lang="en">subtitle G of title V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|V|G|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#/titles/V/subtitles/G</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/VI">
+    <oll:cite xml:lang="en">title VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 24-470|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/24-470#/titles/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72022"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72032"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72062"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72072"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72092"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72093"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72102"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72142"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72152"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73002"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73012"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73022"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73042"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73043"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73052"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73053"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A73072"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74002"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74012"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74013"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/V"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74022"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74042"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74052"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74073"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74082"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74092"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74122"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A74132"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75012"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75022"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/V/subtitles/G"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75032"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75042"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75043"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75044"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75063"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75072"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75102"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75112"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A75132"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76012"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#/titles/VI"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76032"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76042"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76052"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76062"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A76102"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77002"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77032"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77052"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77072"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77073"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71012"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77082"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77092"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77112"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A77113"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A79003"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71032"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A71042"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72002"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2022-09-08/us/dc/council/acts/24-470#%C2%A72012"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

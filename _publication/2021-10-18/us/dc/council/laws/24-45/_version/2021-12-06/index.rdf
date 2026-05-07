@@ -1,0 +1,264 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.us/downloads/LIMS/47312/Signed_Act/B24-0285-Signed_Act.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/24-45"/>
+    <dcterms:references rdf:resource="https://lims.dccouncil.us/downloads/LIMS/47312/Signed_Act/B24-0285-Signed_Act.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. GOVERNMENT DIRECTION AND SUPPORT
+TITLE II. ECONOMIC DEVELOPMENT AND REGULATION
+TITLE III. PUBLIC SAFETY AND JUSTICE
+TITLE IV. PUBLIC EDUCATION SYSTEMS
+TITLE V. HUMAN SUPPORT SERVICES
+TITLE VI. OPERATIONS AND INFRASTRUCTURE
+TITLE VII. FINANCE AND REVENUE
+TITLE VIII. SPECIAL PURPOSE REVENUE, DEDICATED REVENUE, AND CAPITAL
+TITLE IX. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 24-45. Fiscal Year 2022 Budget Support Act of 2021.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2021-12-06]: D.C. Law 24-45</rdfs:label>
+    <oll:codifiedDate>2021-12-06</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-11-13</oll:dateEffective>
+    <oll:docId>D.C. Law 24-45</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71101">
+    <oll:cite xml:lang="en">§ 1101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|J|K|1101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#§1101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71102">
+    <oll:cite xml:lang="en">§ 1102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|J|1102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#§1102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71103">
+    <oll:cite xml:lang="en">§ 1103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|J|1103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#§1103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71104">
+    <oll:cite xml:lang="en">§ 1104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|J|1104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#§1104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A74067">
+    <oll:cite xml:lang="en">§ 4067</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|IV|G|4067|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#§4067</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/I/subtitles/J/subtitles/K">
+    <oll:cite xml:lang="en">subtitle K of subtitle J of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|J|K|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/I/subtitles/J/subtitles/K</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/I/subtitles/K">
+    <oll:cite xml:lang="en">subtitle K of title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|I|K|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element removed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/I/subtitles/K</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II">
+    <oll:cite xml:lang="en">title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/A">
+    <oll:cite xml:lang="en">subtitle A of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|A|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/A</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/B">
+    <oll:cite xml:lang="en">subtitle B of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|B|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/B</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/C">
+    <oll:cite xml:lang="en">subtitle C of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|C|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/C</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/D">
+    <oll:cite xml:lang="en">subtitle D of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|D|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/D</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/E">
+    <oll:cite xml:lang="en">subtitle E of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|E|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/E</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/F">
+    <oll:cite xml:lang="en">subtitle F of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|F|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/F</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/G">
+    <oll:cite xml:lang="en">subtitle G of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|G|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/G</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/H">
+    <oll:cite xml:lang="en">subtitle H of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|H|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/H</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/I">
+    <oll:cite xml:lang="en">subtitle I of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/J">
+    <oll:cite xml:lang="en">subtitle J of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|J|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/J</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/K">
+    <oll:cite xml:lang="en">subtitle K of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|K|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/K</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/L">
+    <oll:cite xml:lang="en">subtitle L of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|L|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/L</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/M">
+    <oll:cite xml:lang="en">subtitle M of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|M|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/M</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/N">
+    <oll:cite xml:lang="en">subtitle N of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|N|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/N</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/O">
+    <oll:cite xml:lang="en">subtitle O of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|O|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/O</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/P">
+    <oll:cite xml:lang="en">subtitle P of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|P|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/P</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/Q">
+    <oll:cite xml:lang="en">subtitle Q of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|Q|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/Q</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/R">
+    <oll:cite xml:lang="en">subtitle R of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|R|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/R</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/S">
+    <oll:cite xml:lang="en">subtitle S of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|S|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/S</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/T">
+    <oll:cite xml:lang="en">subtitle T of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|T|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/T</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/U">
+    <oll:cite xml:lang="en">subtitle U of title II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 24-45|II|U|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/24-45#/titles/II/subtitles/U</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/G"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/H"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/I"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/J"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/K"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/L"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/M"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/N"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/O"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/P"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/I/subtitles/J/subtitles/K"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/Q"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/R"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/S"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/T"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/U"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71101"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71102"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71103"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A71104"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#%C2%A74067"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/I/subtitles/K"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/A"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/B"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/C"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/D"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/E"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-12-06/us/dc/council/laws/24-45#/titles/II/subtitles/F"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

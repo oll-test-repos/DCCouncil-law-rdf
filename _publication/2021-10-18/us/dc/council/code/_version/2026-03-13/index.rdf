@@ -1,0 +1,729 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1. Government Organization.(§§ 1-101 – 1-1518.01)
+Title 2. Government Administration.(§§ 2-101 – 2-1936)
+Title 3. District of Columbia Boards and Commissions.(§§ 3-101 – 3-1481)
+Title 4. Public Care Systems.(§§ 4-105 – 4-2101)
+Title 5. Police, Firefighters, Medical Examiner, and Forensic Sciences.(§§ 5-101.01 – 5-1501.16)
+Title 6. Housing and Building Restrictions and Regulations.(§§ 6-101.01 – 6-1506)
+Title 7. Human Health Care and Safety.(§§ 7-101 – 7-3221)
+Title 8. Environmental and Animal Control and Protection.(§§ 8-101.05 – 8-2241.03)
+Title 9. Transportation Systems.(§§ 9-101.01 – 9-1219.01)
+Title 10. Parks, Public Buildings, Grounds, and Space.(§§ 10-101 – 10-2003)
+Title 11. Organization and Jurisdiction of the Courts. [Enacted title](§§ 11-101 – 11-2608)
+Title 12. Right to Remedy. [Enacted title](§§ 12-101 – 12-311)
+Title 13. Procedure Generally. [Enacted title](§§ 13-301 – 13-505)
+Title 14. Proof. [Enacted title](§§ 14-101 – 14-702)
+Title 15. Judgments and Executions; Fees and Costs. [Enacted title](§§ 15-101 – 15-914)
+Title 16. Particular Actions, Proceedings and Matters. [Enacted title](§§ 16-101 – 16-5628)
+Title 17. Review. [Enacted title](§§ 17-301 – 17-307)
+Title 18. Wills. [Enacted title](§§ 18-101 – 18-1003)
+Title 19. Descent, Distribution, and Trusts. [Enacted title](§§ 19-101.01 – 19-2314)
+Title 20. Probate and Administration of Decedents’ Estates. [Enacted title](§§ 20-101 – 20-1305)
+Title 21. Fiduciary Relations and Persons with Mental Illness. [Enacted title](§§ 21-101 – 21-2604.03)
+Title 22. Criminal Offenses and Penalties.(§§ 22-301 – 22-4517)
+Title 23. Criminal Procedure. [Enacted title](§§ 23-101 – 23-1912)
+Title 24. Prisoners and Their Treatment.(§§ 24-101 – 24-1401)
+Title 25. Alcoholic Beverages. [Enacted title](§§ 25-101 – 25-1003)
+Title 26. Banks and Other Financial Institutions.(§§ 26-101 – 26-1401.31)
+Title 27. Merchant’s Civil Recovery for Criminal Conduct.(§§ 27-101 – 27-106)
+Title 27A. Private Contractors and Subcontractors.(§§ 27A-101 – 27A-202)
+Title 28. Commercial Instruments and Transactions. [Enacted title](§§ 28:1-101 – 28-5404)
+Title 28A. Other Consumer Protections.(§§ 28A-101 – 28A-221)
+Title 29. Business Organizations. [Enacted title](§§ 29-101.01 – 29-1304.01)
+Title 29A. Corporations. [Repealed].
+Title 30. Hotels, Lodging Houses, and Short-term Rentals.(§§ 30-101 – 30-301)
+Title 31. Insurance and Securities.(§§ 31-101 – 31-5608.04)
+Title 32. Labor.(§§ 32-101 – 32-1693.09)
+Title 33. Partnerships. [Repealed].(§§ 33-112.03 – 33-211.05)
+Title 34. Public Utilities.(§§ 34-101 – 34-2711)
+Title 35. Railroads and Other Carriers.(§§ 35-101 – 35-333)
+Title 36. Trade Practices.(§§ 36-101 – 36-641.22)
+Title 37. Weights, Measures, Markets, and Vending.(§§ 37-101 – 37-205.02)
+Title 38. Educational Institutions.(§§ 38-101 – 38-3401)
+Title 39. Libraries and Cultural Institutions.(§§ 39-101 – 39-405)
+Title 40. Liens.(§§ 40-101 – 40-405)
+Title 41. Personal Property.(§§ 41-151.01 – 41-315)
+Title 42. Real Property.(§§ 42-111 – 42-4097)
+Title 43. Cemeteries and Crematories.(§§ 43-101 – 43-131)
+Title 44. Charitable and Curative Institutions.(§§ 44-101.01 – 44-1714)
+Title 45. Compilation and Construction of Code.(§§ 45-102 – 45-606)
+Title 46. Domestic Relations.(§§ 46-101 – 46-601)
+Title 47. Taxation, Licensing, Permits, Assessments, and Fees. [Enacted title](§§ 47-101 – 47-5109)
+Title 48. Foods and Drugs.(§§ 48-101 – 48-1213)
+Title 49. Military.(§§ 49-101 – 49-1101.20)
+Title 50. Motor and Non-Motor Vehicles and Traffic.(§§ 50-101 – 50-2708)
+Title 51. Social Security.(§§ 51-101 – 51-178)
+Title 99. Reserved sections.(§§ 1-1001.17(Perm) – 10-171.03(Perm))
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of the District of Columbia</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2026-03-13]: D.C. Code</rdfs:label>
+    <oll:codifiedDate>2026-03-13</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-03-06</oll:dateCurrentThrough>
+    <oll:docId>D.C. Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/congress/laws/public/115-334"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/26-275"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/26-99"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2804"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805.01"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805.02"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2806"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2807"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2808"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2809"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2809.01"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2810"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/1-328.04"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2811"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2812"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2813"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2814"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2815"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2816"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2817"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2818"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2819"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2820"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-101"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2821"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2822"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2823"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2824"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2825"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2826"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2827"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2828"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2829"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2830"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-113"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2831"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832.01"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832.02"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2833"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2834"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2835"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2836"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2837"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2838"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-113.01"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2839"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2839.01"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2840"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2841"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2842"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2843"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2844"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2844.01"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2845"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2846"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-421"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2847"/>
+    <rdf:_61 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2848"/>
+    <rdf:_62 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2849"/>
+    <rdf:_63 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2850"/>
+    <rdf:_64 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-813"/>
+    <rdf:_65 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-2372"/>
+    <rdf:_66 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-921.02"/>
+    <rdf:_67 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-921.30"/>
+    <rdf:_68 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1451.01"/>
+    <rdf:_69 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1451.02"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-601"/>
+    <rdf:_70 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1453.01"/>
+    <rdf:_71 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-631"/>
+    <rdf:_72 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-632"/>
+    <rdf:_73 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-634"/>
+    <rdf:_74 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/titles/47/chapters/28/subchapters/I"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2801"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2802"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2803"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/1-328.04">
+    <oll:cite xml:lang="en">§ 1-328.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|1|3|XII-A|A|1-328.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/1-328.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-101">
+    <oll:cite xml:lang="en">§ 25-101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|25|1|I|25-101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/25-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-113">
+    <oll:cite xml:lang="en">§ 25-113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|25|1|II|25-113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/25-113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-113.01">
+    <oll:cite xml:lang="en">§ 25-113.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|25|1|II|25-113.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/25-113.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-421">
+    <oll:cite xml:lang="en">§ 25-421</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|25|4|II|25-421|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/25-421</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/25-601">
+    <oll:cite xml:lang="en">§ 25-601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|25|6|25-601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/25-601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2801">
+    <oll:cite xml:lang="en">§ 47-2801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2802">
+    <oll:cite xml:lang="en">§ 47-2802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2803">
+    <oll:cite xml:lang="en">§ 47-2803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2804">
+    <oll:cite xml:lang="en">§ 47-2804</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2804|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2804</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805">
+    <oll:cite xml:lang="en">§ 47-2805</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2805|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2805</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805.01">
+    <oll:cite xml:lang="en">§ 47-2805.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2805.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2805.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2805.02">
+    <oll:cite xml:lang="en">§ 47-2805.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2805.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2805.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2806">
+    <oll:cite xml:lang="en">§ 47-2806</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2806|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2806</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2807">
+    <oll:cite xml:lang="en">§ 47-2807</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2807|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2807</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2808">
+    <oll:cite xml:lang="en">§ 47-2808</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2808|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2808</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2809">
+    <oll:cite xml:lang="en">§ 47-2809</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2809|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2809</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2809.01">
+    <oll:cite xml:lang="en">§ 47-2809.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2809.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2809.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2810">
+    <oll:cite xml:lang="en">§ 47-2810</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2810|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2810</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2811">
+    <oll:cite xml:lang="en">§ 47-2811</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2811|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2811</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2812">
+    <oll:cite xml:lang="en">§ 47-2812</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2812|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2812</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2813">
+    <oll:cite xml:lang="en">§ 47-2813</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2813|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2813</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2814">
+    <oll:cite xml:lang="en">§ 47-2814</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2814|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2814</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2815">
+    <oll:cite xml:lang="en">§ 47-2815</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2815|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2815</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2816">
+    <oll:cite xml:lang="en">§ 47-2816</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2816|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2816</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2817">
+    <oll:cite xml:lang="en">§ 47-2817</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2817|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2817</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2818">
+    <oll:cite xml:lang="en">§ 47-2818</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2818|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2818</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2819">
+    <oll:cite xml:lang="en">§ 47-2819</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2819|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2819</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2820">
+    <oll:cite xml:lang="en">§ 47-2820</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2820|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2820</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2821">
+    <oll:cite xml:lang="en">§ 47-2821</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2821|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2821</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2822">
+    <oll:cite xml:lang="en">§ 47-2822</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2822|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2822</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2823">
+    <oll:cite xml:lang="en">§ 47-2823</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2823|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2823</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2824">
+    <oll:cite xml:lang="en">§ 47-2824</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2824|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2824</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2825">
+    <oll:cite xml:lang="en">§ 47-2825</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2825|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2825</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2826">
+    <oll:cite xml:lang="en">§ 47-2826</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2826|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2826</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2827">
+    <oll:cite xml:lang="en">§ 47-2827</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2827|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2827</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2828">
+    <oll:cite xml:lang="en">§ 47-2828</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2828|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2828</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2829">
+    <oll:cite xml:lang="en">§ 47-2829</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2829|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2829</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2830">
+    <oll:cite xml:lang="en">§ 47-2830</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2830|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2830</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2831">
+    <oll:cite xml:lang="en">§ 47-2831</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2831|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2831</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832">
+    <oll:cite xml:lang="en">§ 47-2832</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2832|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2832</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832.01">
+    <oll:cite xml:lang="en">§ 47-2832.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2832.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2832.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2832.02">
+    <oll:cite xml:lang="en">§ 47-2832.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2832.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2832.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2833">
+    <oll:cite xml:lang="en">§ 47-2833</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2833|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2833</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2834">
+    <oll:cite xml:lang="en">§ 47-2834</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2834|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2834</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2835">
+    <oll:cite xml:lang="en">§ 47-2835</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2835|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2835</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2836">
+    <oll:cite xml:lang="en">§ 47-2836</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2836|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2836</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2837">
+    <oll:cite xml:lang="en">§ 47-2837</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2837|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2837</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2838">
+    <oll:cite xml:lang="en">§ 47-2838</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2838|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2838</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2839">
+    <oll:cite xml:lang="en">§ 47-2839</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2839|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2839</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2839.01">
+    <oll:cite xml:lang="en">§ 47-2839.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2839.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2839.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2840">
+    <oll:cite xml:lang="en">§ 47-2840</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2840|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2840</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2841">
+    <oll:cite xml:lang="en">§ 47-2841</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2841|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2841</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2842">
+    <oll:cite xml:lang="en">§ 47-2842</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2842|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2842</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2843">
+    <oll:cite xml:lang="en">§ 47-2843</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2843|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2843</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2844">
+    <oll:cite xml:lang="en">§ 47-2844</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2844|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2844</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2844.01">
+    <oll:cite xml:lang="en">§ 47-2844.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2844.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2844.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2845">
+    <oll:cite xml:lang="en">§ 47-2845</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2845|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2845</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2846">
+    <oll:cite xml:lang="en">§ 47-2846</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2846|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2846</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2847">
+    <oll:cite xml:lang="en">§ 47-2847</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2847|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2847</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2848">
+    <oll:cite xml:lang="en">§ 47-2848</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2848|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2848</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2849">
+    <oll:cite xml:lang="en">§ 47-2849</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2849|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2849</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-2850">
+    <oll:cite xml:lang="en">§ 47-2850</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|47-2850|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-2850</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/47-813">
+    <oll:cite xml:lang="en">§ 47-813</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|8|II|47-813|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/47-813</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-2372">
+    <oll:cite xml:lang="en">§ 50-2372</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|23C|50-2372|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-2372</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-921.02">
+    <oll:cite xml:lang="en">§ 50-921.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|9A|I|50-921.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-921.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/50-921.30">
+    <oll:cite xml:lang="en">§ 50-921.30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|9A|I|50-921.30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-921.30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1451.01">
+    <oll:cite xml:lang="en">§ 6-1451.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|6|14A|6-1451.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/6-1451.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1451.02">
+    <oll:cite xml:lang="en">§ 6-1451.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|6|14A|6-1451.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/6-1451.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/6-1453.01">
+    <oll:cite xml:lang="en">§ 6-1453.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|6|14B|6-1453.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/6-1453.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-631">
+    <oll:cite xml:lang="en">§ 9-631</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|9|6A|9-631|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/9-631</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-632">
+    <oll:cite xml:lang="en">§ 9-632</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|9|6A|9-632|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/9-632</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/sections/9-634">
+    <oll:cite xml:lang="en">§ 9-634</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|9|6A|9-634|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/9-634</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2026-03-13/us/dc/council/code/titles/47/chapters/28/subchapters/I">
+    <oll:cite xml:lang="en">subchapter I of Chapter 28 of Title 47</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|47|28|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/titles/47/chapters/28/subchapters/I</oll:url>
+  </rdf:Description>
+</rdf:RDF>

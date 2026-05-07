@@ -1,0 +1,347 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1. Government Organization.(§§ 1-101 – 1-1518.01)
+Title 2. Government Administration.(§§ 2-101 – 2-1936)
+Title 3. District of Columbia Boards and Commissions.(§§ 3-101 – 3-1452)
+Title 4. Public Care Systems.(§§ 4-105 – 4-2006)
+Title 5. Police, Firefighters, Medical Examiner, and Forensic Sciences.(§§ 5-101.01 – 5-1501.16)
+Title 6. Housing and Building Restrictions and Regulations.(§§ 6-101.01 – 6-1506)
+Title 7. Human Health Care and Safety.(§§ 7-101 – 7-3221)
+Title 8. Environmental and Animal Control and Protection.(§§ 8-101.05 – 8-2231.12)
+Title 9. Transportation Systems.(§§ 9-101.01 – 9-1219.01)
+Title 10. Parks, Public Buildings, Grounds, and Space.(§§ 10-101 – 10-1906)
+Title 11. Organization and Jurisdiction of the Courts. [Enacted title](§§ 11-101 – 11-2608)
+Title 12. Right to Remedy. [Enacted title](§§ 12-101 – 12-311)
+Title 13. Procedure Generally. [Enacted title](§§ 13-301 – 13-505)
+Title 14. Proof. [Enacted title](§§ 14-101 – 14-702)
+Title 15. Judgments and Executions; Fees and Costs. [Enacted title](§§ 15-101 – 15-914)
+Title 16. Particular Actions, Proceedings and Matters. [Enacted title](§§ 16-101 – 16-5628)
+Title 17. Review. [Enacted title](§§ 17-301 – 17-307)
+Title 18. Wills. [Enacted title](§§ 18-101 – 18-911)
+Title 19. Descent, Distribution, and Trusts. [Enacted title](§§ 19-101.01 – 19-1518)
+Title 20. Probate and Administration of Decedents’ Estates. [Enacted title](§§ 20-101 – 20-1305)
+Title 21. Fiduciary Relations and Persons with Mental Illness. [Enacted title](§§ 21-101 – 21-2604.03)
+Title 22. Criminal Offenses and Penalties.(§§ 22-301 – 22-4517)
+Title 23. Criminal Procedure. [Enacted title](§§ 23-101 – 23-1912)
+Title 24. Prisoners and Their Treatment.(§§ 24-101 – 24-1401)
+Title 25. Alcoholic Beverages. [Enacted title](§§ 25-101 – 25-1003)
+Title 26. Banks and Other Financial Institutions.(§§ 26-101 – 26-1401.31)
+Title 27. Merchant’s Civil Recovery for Criminal Conduct.(§§ 27-101 – 27-106)
+Title 27A. Private Contractors and Subcontractors.(§§ 27A-101 – 27A-202)
+Title 28. Commercial Instruments and Transactions. [Enacted title](§§ 28:1-101 – 28-5404)
+Title 28A. Other Consumer Protections.(§§ 28A-101 – 28A-221)
+Title 29. Business Organizations. [Enacted title](§§ 29-101.01 – 29-1304.01)
+Title 29A. Corporations. [Repealed].
+Title 30. Hotels, Lodging Houses, and Short-term Rentals.(§§ 30-101 – 30-301)
+Title 31. Insurance and Securities.(§§ 31-101 – 31-5608.04)
+Title 32. Labor.(§§ 32-101 – 32-1693.09)
+Title 33. Partnerships. [Repealed].(§§ 33-112.03 – 33-211.05)
+Title 34. Public Utilities.(§§ 34-101 – 34-2711)
+Title 35. Railroads and Other Carriers.(§§ 35-101 – 35-333)
+Title 36. Trade Practices.(§§ 36-101 – 36-641.21)
+Title 37. Weights, Measures, Markets, and Vending.(§§ 37-101 – 37-205.02)
+Title 38. Educational Institutions.(§§ 38-101 – 38-3401)
+Title 39. Libraries and Cultural Institutions.(§§ 39-101 – 39-405)
+Title 40. Liens.(§§ 40-101 – 40-405)
+Title 41. Personal Property.(§§ 41-151.01 – 41-315)
+Title 42. Real Property.(§§ 42-111 – 42-4097)
+Title 43. Cemeteries and Crematories.(§§ 43-101 – 43-131)
+Title 44. Charitable and Curative Institutions.(§§ 44-101.01 – 44-1714)
+Title 45. Compilation and Construction of Code.(§§ 45-102 – 45-606)
+Title 46. Domestic Relations.(§§ 46-101 – 46-601)
+Title 47. Taxation, Licensing, Permits, Assessments, and Fees. [Enacted title](§§ 47-101 – 47-5109)
+Title 48. Foods and Drugs.(§§ 48-101 – 48-1213)
+Title 49. Military.(§§ 49-101 – 49-1101.20)
+Title 50. Motor and Non-Motor Vehicles and Traffic.(§§ 50-101 – 50-2708)
+Title 51. Social Security.(§§ 51-101 – 51-178)
+Title 99. Reserved sections.(§§ 50-2209.05(Perm) – 10-171.03(Perm))
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of the District of Columbia</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2024-09-15]: D.C. Code</rdfs:label>
+    <oll:codifiedDate>2024-09-15</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-04</oll:dateCurrentThrough>
+    <oll:docId>D.C. Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/congress/laws/public/115-334"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/25-549"/>
+    <oll:lastCodifiedDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/25-207"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-104"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-105"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-106"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-107"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-201"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-202"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-203"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-204"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-205"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-206"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-171.03"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-207"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1001"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1002"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1003"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1004"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1005"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1006"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.03"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.07"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.30"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-171.03(Perm)"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/8-403"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/1"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/2"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/I"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-565.06"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-571.06"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/2-534"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/23-563"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-101"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-102"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-103"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-171.03">
+    <oll:cite xml:lang="en">§ 10-171.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|10|1A|10-171.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/10-171.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-171.03(Perm)">
+    <oll:cite xml:lang="en">§ 10-171.03(Perm)</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|99|10-171.03(Perm)|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/10-171.03(Perm)</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-565.06">
+    <oll:cite xml:lang="en">§ 10-565.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|10|5C|10-565.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Not Funded</oll:reason>
+    <oll:status xml:lang="en">Element removed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/10-565.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/10-571.06">
+    <oll:cite xml:lang="en">§ 10-571.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|10|5C|10-571.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Not Funded</oll:reason>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/10-571.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/2-534">
+    <oll:cite xml:lang="en">§ 2-534</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|2|5|II|2-534|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/2-534</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/23-563">
+    <oll:cite xml:lang="en">§ 23-563</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|23|5|IV|23-563|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/23-563</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-101">
+    <oll:cite xml:lang="en">§ 28:12-101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-102">
+    <oll:cite xml:lang="en">§ 28:12-102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-103">
+    <oll:cite xml:lang="en">§ 28:12-103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-104">
+    <oll:cite xml:lang="en">§ 28:12-104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-105">
+    <oll:cite xml:lang="en">§ 28:12-105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-106">
+    <oll:cite xml:lang="en">§ 28:12-106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-107">
+    <oll:cite xml:lang="en">§ 28:12-107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|28:12-107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-201">
+    <oll:cite xml:lang="en">§ 28:12-201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-202">
+    <oll:cite xml:lang="en">§ 28:12-202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-203">
+    <oll:cite xml:lang="en">§ 28:12-203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-204">
+    <oll:cite xml:lang="en">§ 28:12-204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-205">
+    <oll:cite xml:lang="en">§ 28:12-205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-206">
+    <oll:cite xml:lang="en">§ 28:12-206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/28:12-207">
+    <oll:cite xml:lang="en">§ 28:12-207</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|28:12-207|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/28:12-207</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1001">
+    <oll:cite xml:lang="en">§ 48-1001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1002">
+    <oll:cite xml:lang="en">§ 48-1002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1003">
+    <oll:cite xml:lang="en">§ 48-1003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1004">
+    <oll:cite xml:lang="en">§ 48-1004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1005">
+    <oll:cite xml:lang="en">§ 48-1005</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1005|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/48-1006">
+    <oll:cite xml:lang="en">§ 48-1006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|48|10|48-1006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Not Funded</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/48-1006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.03">
+    <oll:cite xml:lang="en">§ 50-301.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|3|I|50-301.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-301.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.07">
+    <oll:cite xml:lang="en">§ 50-301.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|3|I|50-301.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-301.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/50-301.30">
+    <oll:cite xml:lang="en">§ 50-301.30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|50|3|I|50-301.30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/50-301.30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/sections/8-403">
+    <oll:cite xml:lang="en">§ 8-403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|8|4|I|8-403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/sections/8-403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/1">
+    <oll:cite xml:lang="en">part 1 of article 12 of Subtitle I of Title 28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/2">
+    <oll:cite xml:lang="en">part 2 of article 12 of Subtitle I of Title 28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2024-09-15/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/I">
+    <oll:cite xml:lang="en">part I of article 12 of Subtitle I of Title 28</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Code|28|I|12|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element removed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/code/titles/28/subtitles/I/articles/12/parts/I</oll:url>
+  </rdf:Description>
+</rdf:RDF>

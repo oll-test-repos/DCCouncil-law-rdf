@@ -1,0 +1,155 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/53611/Signed_Act/B25-0435-Signed_Act.pdf?Id=206183"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/laws/25-325"/>
+    <dcterms:references rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/53611/Signed_Act/B25-0435-Signed_Act.pdf?Id=204907"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. PARKING ENFORCEMENT MODERNIZATION
+TITLE II. FRAUDULENT OR OBSCURED VEHICLE TAGS
+TITLE III. MISCELLANEOUS PROVISIONS
+TITLE IV. GENERAL PROVISIONS
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 25-325. Fraudulent Vehicle Tag and Parking Enforcement Modernization Amendment Act of 2024.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2025-05-19]: D.C. Law 25-325</rdfs:label>
+    <oll:codifiedDate>2025-05-19</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-05-02</oll:dateEffective>
+    <oll:docId>D.C. Law 25-325</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7102">
+    <oll:cite xml:lang="en">§ 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|A|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7121">
+    <oll:cite xml:lang="en">§ 121</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|121|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§121</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7122">
+    <oll:cite xml:lang="en">§ 122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7125">
+    <oll:cite xml:lang="en">§ 125</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|125|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§125</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7126">
+    <oll:cite xml:lang="en">§ 126</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|126|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§126</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7127">
+    <oll:cite xml:lang="en">§ 127</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|127|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§127</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7129">
+    <oll:cite xml:lang="en">§ 129</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|C|129|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§129</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7131">
+    <oll:cite xml:lang="en">§ 131</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|D|131|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§131</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7132">
+    <oll:cite xml:lang="en">§ 132</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|D|132|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§132</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7133">
+    <oll:cite xml:lang="en">§ 133</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|D|133|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§133</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7134">
+    <oll:cite xml:lang="en">§ 134</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|D|134|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§134</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7141">
+    <oll:cite xml:lang="en">§ 141</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|E|141|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§141</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7142">
+    <oll:cite xml:lang="en">§ 142</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|I|E|142|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§142</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7201">
+    <oll:cite xml:lang="en">§ 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|II|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7202">
+    <oll:cite xml:lang="en">§ 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|II|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7302">
+    <oll:cite xml:lang="en">§ 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 25-325|III|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/25-325#§302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7133"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7134"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7141"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7142"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7201"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7202"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7302"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7102"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7121"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7122"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7125"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7126"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7127"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7129"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7131"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-05-19/us/dc/council/laws/25-325#%C2%A7132"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

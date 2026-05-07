@@ -1,0 +1,111 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/58199/Signed_Act/B26-0340-Signed_Act.pdf?Id=219873"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/us/dc/council/acts/26-146"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. GOVERNMENT DIRECTION AND SUPPORT
+TITLE II. ECONOMIC DEVELOPMENT AND REGULATION
+TITLE III. PUBLIC SAFETY AND JUSTICE
+TITLE IV. PUBLIC EDUCATION SYSTEM
+TITLE V. HUMAN SUPPORT SERVICES
+TITLE VI. OPERATIONS AND INFRASTRUCTURE
+TITLE VII. FINANCE AND REVENUE
+TITLE VIII. TECHNICAL AMENDMENTS
+TITLE IX. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 26-146. Fiscal Year 2026 Budget Support Emergency Act of 2025.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2025-09-10]: D.C. Act 26-146</rdfs:label>
+    <oll:codifiedDate>2025-09-10</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-03</oll:dateEffective>
+    <oll:docId>D.C. Act 26-146</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.us/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72073">
+    <oll:cite xml:lang="en">§ 2073</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|H|2073|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2073</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72074">
+    <oll:cite xml:lang="en">§ 2074</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|H|2074|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2074</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72082">
+    <oll:cite xml:lang="en">§ 2082</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|I|2082|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2082</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72083">
+    <oll:cite xml:lang="en">§ 2083</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|I|2083|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2083</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72092">
+    <oll:cite xml:lang="en">§ 2092</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|J|2092|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2092</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72102">
+    <oll:cite xml:lang="en">§ 2102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|K|2102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72122">
+    <oll:cite xml:lang="en">§ 2122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|M|2122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72142">
+    <oll:cite xml:lang="en">§ 2142</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|O|2142|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2142</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72152">
+    <oll:cite xml:lang="en">§ 2152</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|P|2152|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2152</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72153">
+    <oll:cite xml:lang="en">§ 2153</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-146|II|P|2153|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-146#§2153</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72153"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72073"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72074"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72082"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72083"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72092"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72102"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72122"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72142"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2025-09-10/us/dc/council/acts/26-146#%C2%A72152"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
