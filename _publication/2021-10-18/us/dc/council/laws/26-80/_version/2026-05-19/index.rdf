@@ -1,0 +1,38 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2021-10-18/_date/2026-05-19/us/dc/council/laws/26-80">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/57311/Signed_Act/B26-0164-Signed_Act.pdf?Id=227055"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.gov/_publication/2021-10-18/us/dc/council/laws/26-80"/>
+    <dcterms:references rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/57311/Signed_Act/B26-0164-Signed_Act.pdf?Id=227055"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. PUBLIC SAFETY EVICTIONS.
+TITLE II. COURT EVICTION PROCEDURES.
+TITLE III. TENANT OPPORTUNITY TO PURCHASE ACT.
+TITLE IV. DC LOW-INCOME HOUSING TAX CREDIT.
+TITLE V. FACILITATION OF RESALE OF INCLUSIONARY ZONING UNITS.
+TITLE VI. DISTRICT OF COLUMBIA HOUSING AUTHORITY BOARD OF DIRECTORS.
+TITLE VII. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE.
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 26-80. Rebalancing Expectations for Neighbors, Tenants, and Landlords (RENTAL) Amendment Act of 2025.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2021-10-18/2026-05-19]: D.C. Law 26-80</rdfs:label>
+    <oll:codifiedDate>2026-05-19</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-31</oll:dateEffective>
+    <oll:docId>D.C. Law 26-80</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.gov/_publication/2021-10-18/_date/2026-05-19/us/dc/council/laws/26-80/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.gov/_publication/2021-10-18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2021-10-18/_date/2026-05-19/us/dc/council/laws/26-80#%C2%A7301">
+    <oll:cite xml:lang="en">§ 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 26-80|III|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/26-80#§301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2021-10-18/_date/2026-05-19/us/dc/council/laws/26-80/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.gov/_publication/2021-10-18/_date/2026-05-19/us/dc/council/laws/26-80#%C2%A7301"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
