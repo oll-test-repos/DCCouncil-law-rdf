@@ -5,6 +5,7 @@
     <dcterms:isPartOf rdf:resource="https://code.dccouncil.us/"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
     <rdfs:label xml:lang="en">Publication 2021-10-18</rdfs:label>
+    <oll:archivedHtml xml:lang="en">DCCouncil/law-html</oll:archivedHtml>
     <oll:hasDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-10-18/dc/council/revised-statutes.html"/>
     <oll:hasDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-10-18/uk/parliament/sessions/11-Geo-2/chapters/19"/>
     <oll:hasDocument rdf:resource="https://code.dccouncil.us/_publication/2021-10-18/_date/2021-10-18/uk/parliament/sessions/11-Geo-3/chapters/20"/>
