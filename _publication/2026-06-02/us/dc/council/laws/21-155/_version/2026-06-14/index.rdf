@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-02</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/34426/Signed_Act/B21-0335-SignedAct.pdf?Id=105352"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/us/dc/council/laws/21-155"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. OPEN ACCESS TO DATA AND INFORMATION
+TITLE II. BICYCLE AND PEDESTRIAN PRIORITY AREAS
+TITLE III. COMPLETE STREETS
+TITLE IV. BICYCLE CONSUMER PROTECTION
+TITLE V. BICYCLE AND PEDESTRIAN SAFETY
+TITLE VI. MOTOR VEHICLE SAFETY
+TITLE VII. DRUNK DRIVING
+TITLE VIII. MAJOR CRASH REVIEW
+TITLE IX. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 21-155. Bicycle and Pedestrian Safety Amendment Act of 2016.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-06-02/2026-06-14]: D.C. Law 21-155</rdfs:label>
+    <oll:codifiedDate>2026-06-14</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-08</oll:dateEffective>
+    <oll:docId>D.C. Law 21-155</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155#%C2%A7103">
+    <oll:cite xml:lang="en">§ 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 21-155|I|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/21-155#§103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155#%C2%A7801">
+    <oll:cite xml:lang="en">§ 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 21-155|VIII|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/21-155#§801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155#%C2%A7103"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/21-155#%C2%A7801"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

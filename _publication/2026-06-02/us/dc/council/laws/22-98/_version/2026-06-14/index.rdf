@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/22-98">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-02</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/37818/Signed_Act/B22-0232-SignedAct.pdf?Id=106016"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/us/dc/council/laws/22-98"/>
+    <dcterms:references rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/37818/Signed_Act/B22-0232-SignedAct.pdf?Id=106016"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. CREATION OF A SCHOOL HEALTH INNOVATIONS GRANT PPROGRAM
+TITLE II. TASK FORCE ON SCHOOL MENTAL HEALTH
+TITLE III. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Law 22-98. School Health Innovations Grant Program Amendment Act of 2018.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-06-02/2026-06-14]: D.C. Law 22-98</rdfs:label>
+    <oll:codifiedDate>2026-06-14</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-05-05</oll:dateEffective>
+    <oll:docId>D.C. Law 22-98</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/22-98/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/22-98#/titles/I">
+    <oll:cite xml:lang="en">title I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Law 22-98|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/laws/22-98#/titles/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/22-98/_changes">
+    <rdf:_1 rdf:resource="https://code.dccouncil.gov/_publication/2026-06-02/_date/2026-06-14/us/dc/council/laws/22-98#/titles/I"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
